@@ -1,0 +1,56 @@
+name: Velg værtype
+
+on:
+  schedule:
+    - cron: "7,37 * * * *" # every 30 minutes, in UTC; off the full hour when GitHub is busiest
+  workflow_dispatch: # "Run workflow" button for testing
+
+permissions:
+  contents: write # commit public/ and logg/
+  pages: write
+  id-token: write
+
+concurrency:
+  group: vaertype
+  cancel-in-progress: false
+
+jobs:
+  velg:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Test reglene
+        run: python3 -m unittest discover -s tests
+
+      # Exits with an error if a paper's data failed; the other paper is still saved below,
+      # and GitHub emails about the failed run.
+      - name: Velg værtype
+        id: velg
+        run: python3 scripts/velg_type.py
+
+      - name: Lagre valget og loggen
+        if: ${{ !cancelled() && steps.velg.conclusion != 'skipped' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public logg
+          git diff --cached --quiet && exit 0
+          git commit -m "Værtype $(TZ=Europe/Oslo date +'%d.%m %H:%M')"
+          git pull --rebase
+          git push
+
+      - uses: actions/configure-pages@v5
+        if: ${{ !cancelled() && steps.velg.conclusion != 'skipped' }}
+
+      - uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() && steps.velg.conclusion != 'skipped' }}
+        with:
+          path: public
+
+      - id: deploy
+        if: ${{ !cancelled() && steps.velg.conclusion != 'skipped' }}
+        uses: actions/deploy-pages@v4
