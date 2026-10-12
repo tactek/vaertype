@@ -13,3 +13,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-12T18:59+02:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,9.2,13.0,0.0,0.0,10.3,9.6,ok
 2026-10-12T18:59+02:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.0,12.0,0.0,0.0,10.9,5.0,ok
 2026-10-12T18:59+02:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.7,12.7,0.0,0.0,10.5,8.0,ok
+2026-10-13T01:36+02:00,vestnytt.no,wind,vind,"Middelvind 13,5 m/s på Hernar",wind,vind,13.5,19.0,0.7,0.0,11.2,10.1,ok
+2026-10-13T01:36+02:00,av-avis.no,wind,vind,"Middelvind 13,0 m/s på Herdla",wind,vind,13.0,18.4,0.1,0.0,11.4,10.6,ok
+2026-10-13T01:36+02:00,bygdanytt.no,wind,vind,"Vindkast 20,0 m/s på Gullfjellet",wind,vind,10.6,20.0,0.0,0.0,11.3,2.5,ok
+2026-10-13T01:36+02:00,bomlo-nytt.no,wind,vind,"Middelvind 12,8 m/s på Espevær",wind,vind,12.8,18.4,0.0,0.0,11.0,10.4,ok
+2026-10-13T01:36+02:00,strilen.no,wind,vind,"Middelvind 11,7 m/s på Skjelanger",wind,vind,11.7,17.7,0.0,0.0,11.6,5.7,ok
+2026-10-13T01:36+02:00,sunnhordland.no,wind,vind,"Middelvind 12,4 m/s på Slåtterøy fyr",wind,vind,12.4,18.1,0.3,0.0,12.4,9.1,ok

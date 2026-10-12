@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "rule": "vind",
+  "reason": "Middelvind 11,7 m/s på Skjelanger",
   "since": "2026-10-12T09:22+02:00",
-  "updated": "2026-10-12T18:59+02:00"
+  "updated": "2026-10-13T01:36+02:00"
 }
