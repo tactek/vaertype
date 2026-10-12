@@ -1,3 +1,9 @@
 tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbør,median_nedbør,maks_temp,min_temp,farevarsel
 2026-10-12T09:09+02:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.6,10.0,1.6,0.0,8.5,7.2,ok
 2026-10-12T09:09+02:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.5,9.3,0.0,0.0,8.2,7.1,ok
+2026-10-12T09:22+02:00,vestnytt.no,precipitation,nedbør,"3,5 mm/t på Syltøy",precipitation,nedbør,6.7,10.0,3.5,0.1,8.5,7.2,ok
+2026-10-12T09:22+02:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.5,9.3,0.3,0.0,8.2,7.2,ok
+2026-10-12T09:22+02:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,3.9,8.3,0.2,0.0,7.5,0.4,ok
+2026-10-12T09:22+02:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.2,10.6,0.4,0.0,8.3,6.9,ok
+2026-10-12T09:22+02:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,5.2,8.4,0.1,0.0,7.9,2.9,ok
+2026-10-12T09:22+02:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.0,10.6,1.9,0.0,8.2,4.8,ok
