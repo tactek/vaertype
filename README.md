@@ -2,14 +2,20 @@
 
 Velger hvilken værtype værstripen på forsiden skal vise: `warm`, `cold`, `wind` eller `precipitation`. Stripen eies av Harald Nilsen. Når redaksjonen har valgt automatisk værtype i config-siden, henter stripen typen herfra. Svarer fila ikke, eller oppfører den seg rart, bruker stripen typen som står i pconfig.
 
-Gjelder foreløpig Vestnytt og Askøyværingen.
-
 ## Adresser
 
-Forventede adresser. De må bekreftes etter første publisering:
+Én fil per avis:
 
-- `https://tactek.github.io/vaertype/vestnytt.no.json`
-- `https://tactek.github.io/vaertype/av-avis.no.json`
+| Avis | Adresse |
+|---|---|
+| Vestnytt | `https://tactek.github.io/vaertype/vestnytt.no.json` |
+| Askøyværingen | `https://tactek.github.io/vaertype/av-avis.no.json` |
+| Bygdanytt | `https://tactek.github.io/vaertype/bygdanytt.no.json` |
+| Bømlo-nytt | `https://tactek.github.io/vaertype/bomlo-nytt.no.json` |
+| Strilen | `https://tactek.github.io/vaertype/strilen.no.json` |
+| Sunnhordland | `https://tactek.github.io/vaertype/sunnhordland.no.json` |
+
+Marsteinen, Randaberg24, Stord24 og Øyposten mangler værdata hos Harald. Når de får det, legger du domenet til i `DOMAINS` øverst i `scripts/velg_type.py`.
 
 ```json
 {

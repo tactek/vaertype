@@ -22,7 +22,8 @@ PUBLIC = ROOT / "public"
 LOG_DIR = ROOT / "logg"
 OSLO = ZoneInfo("Europe/Oslo")
 
-DOMAINS = ("vestnytt.no", "av-avis.no")
+# Marsteinen, Randaberg24, Stord24 and Øyposten have no weather data from Harald yet.
+DOMAINS = ("vestnytt.no", "av-avis.no", "bygdanytt.no", "bomlo-nytt.no", "strilen.no", "sunnhordland.no")
 DATA_URL = "https://smps3.ams3.digitaloceanspaces.com/weather-data/{domain}/{kind}_data.json"
 LOCATIONS_URL = "https://smpdev.no/weather-location/locations/{domain}"
 ALERTS_URL = "https://api.met.no/weatherapi/metalerts/2.0/current.json"
