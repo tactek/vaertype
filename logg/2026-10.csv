@@ -43,3 +43,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-14T01:25+02:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.7,12.7,0.0,0.0,11.8,10.2,ok
 2026-10-14T01:25+02:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,7.3,11.8,3.8,0.0,11.5,5.7,ok
 2026-10-14T01:25+02:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,8.8,12.7,8.9,0.0,12.1,8.8,ok
+2026-10-14T04:08+02:00,vestnytt.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,9.7,14.4,0.0,0.0,11.3,9.6,ok
+2026-10-14T04:08+02:00,av-avis.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,8.7,13.1,0.0,0.0,11.2,9.7,ok
+2026-10-14T04:08+02:00,bygdanytt.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,7.9,15.9,1.2,0.0,10.6,3.9,ok
+2026-10-14T04:08+02:00,bomlo-nytt.no,wind,vind,"Middelvind 11,4 m/s på Espevær",wind,vind,11.4,16.1,0.0,0.0,11.9,9.4,ok
+2026-10-14T04:08+02:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,7.9,13.0,3.0,0.0,10.9,5.3,ok
+2026-10-14T04:08+02:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,11.2,16.2,0.0,0.0,12.0,8.5,ok
