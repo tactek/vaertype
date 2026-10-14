@@ -55,3 +55,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-14T09:59+02:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.1,10.5,0.0,0.0,11.1,9.4,ok
 2026-10-14T09:59+02:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,6.1,10.3,0.7,0.0,10.6,4.5,ok
 2026-10-14T09:59+02:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,7.0,10.6,0.3,0.0,11.4,7.0,ok
+2026-10-14T15:39+02:00,vestnytt.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,12.8,17.7,0.0,0.0,12.8,12.2,ok
+2026-10-14T15:39+02:00,av-avis.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,11.7,16.4,0.0,0.0,12.7,11.9,ok
+2026-10-14T15:39+02:00,bygdanytt.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,8.2,14.8,0.0,0.0,12.5,4.2,ok
+2026-10-14T15:39+02:00,bomlo-nytt.no,wind,vind,"Middelvind 11,0 m/s på Brandasund",wind,vind,11.0,15.4,0.0,0.0,13.0,12.4,ok
+2026-10-14T15:39+02:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,11.1,17.0,0.0,0.0,12.6,7.4,ok
+2026-10-14T15:39+02:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Mye regn, Deler av Vestland fylke",precipitation,farevarsel,11.4,15.9,0.0,0.0,13.1,11.5,ok
