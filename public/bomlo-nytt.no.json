@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
-  "since": "2026-10-12T09:22+02:00",
-  "updated": "2026-10-16T03:16+02:00"
+  "weathertype": "precipitation",
+  "rule": "nedbør",
+  "reason": "7,5 mm/t på Meling",
+  "since": "2026-10-16T08:19+02:00",
+  "updated": "2026-10-16T08:19+02:00"
 }
