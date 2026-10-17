@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
-  "since": "2026-10-16T08:19+02:00",
-  "updated": "2026-10-17T00:47+02:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-0,0 grader på Nonkletten, uvanlig for oktober",
+  "since": "2026-10-17T03:15+02:00",
+  "updated": "2026-10-17T03:15+02:00"
 }
