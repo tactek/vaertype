@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
-  "since": "2026-10-18T11:34+02:00",
-  "updated": "2026-10-18T18:52+02:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-0,6 grader på Gullfjellet, uvanlig for oktober",
+  "since": "2026-10-18T21:24+02:00",
+  "updated": "2026-10-18T21:24+02:00"
 }
