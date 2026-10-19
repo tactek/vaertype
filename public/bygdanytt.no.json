@@ -1,7 +1,7 @@
 {
-  "weathertype": "cold",
-  "rule": "temperatur",
-  "reason": "-0,9 grader på Bruviknipa, uvanlig for oktober",
-  "since": "2026-10-18T21:24+02:00",
-  "updated": "2026-10-19T07:16+02:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "since": "2026-10-19T13:13+02:00",
+  "updated": "2026-10-19T13:13+02:00"
 }
