@@ -58,6 +58,23 @@ Stripen holder en type i minst tre timer, så den ikke bytter fram og tilbake. B
 
 Alle tersklene er første gjetninger og står øverst i `scripts/velg_type.py`.
 
+## Timer
+
+GitHub sin egen timer (`schedule` i arbeidsflyten) startet jobben bare 4-7 ganger i døgnet. Derfor starter
+[cron-job.org](https://cron-job.org) jobben hver halvtime ved å sende
+
+```
+POST https://api.github.com/repos/tactek/vaertype/actions/workflows/vaertype.yml/dispatches
+Authorization: Bearer <nøkkel>
+Accept: application/vnd.github+json
+{"ref": "main"}
+```
+
+GitHub svarer `204` og starter jobben med en gang. Nøkkelen er en fine-grained GitHub-nøkkel som bare gjelder dette
+repoet, med tillatelsen Actions: Read and write. Den ligger bare hos cron-job.org. Når den går ut, faller jobben
+tilbake til GitHub sin trege timer, så lag en ny før utløpsdatoen. Flyttes repoet, må adressen hos cron-job.org
+endres. Jobben hos cron-job.org ligger på Tom Croziers private konto.
+
 ## Logg
 
 Hver kjøring legger en linje per avis i `logg/<år>-<måned>.csv`: hva som vises, hva reglene foreslår akkurat nå, og de viktigste tallene. Bruk den til å justere tersklene.
