@@ -265,3 +265,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-20T03:14+02:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.1,12.0,0.0,0.0,6.8,4.7,ok
 2026-10-20T03:14+02:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,5.7,9.3,0.0,0.0,8.1,0.1,ok
 2026-10-20T03:14+02:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.3,11.3,0.0,0.0,7.3,1.6,ok
+2026-10-20T08:34+02:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.6,9.5,0.0,0.0,7.3,3.0,ok
+2026-10-20T08:34+02:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.7,6.7,0.0,0.0,6.6,2.7,ok
+2026-10-20T08:34+02:00,bygdanytt.no,cold,temperatur,"-1,3 grader på Bruviknipa, uvanlig for oktober",cold,temperatur,2.2,4.0,0.0,0.0,2.5,-1.3,ok
+2026-10-20T08:34+02:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.7,6.9,0.0,0.0,5.8,3.2,ok
+2026-10-20T08:34+02:00,strilen.no,cold,temperatur,"-1,5 grader på Stordalen, uvanlig for oktober",cold,temperatur,4.3,6.9,0.0,0.0,6.0,-1.5,ok
+2026-10-20T08:34+02:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.2,7.1,0.0,0.0,6.5,0.7,ok
