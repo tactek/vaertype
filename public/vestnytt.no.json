@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "rule": "vind",
+  "reason": "Middelvind 11,3 m/s på Turøy",
   "since": "2026-10-22T12:30+02:00",
-  "updated": "2026-10-22T16:02+02:00"
+  "updated": "2026-10-22T16:42+02:00"
 }
