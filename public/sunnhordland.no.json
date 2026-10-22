@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "rule": "vind",
+  "reason": "Middelvind 11,0 m/s på Espevær",
   "since": "2026-10-22T10:31+02:00",
-  "updated": "2026-10-22T13:31+02:00"
+  "updated": "2026-10-22T14:01+02:00"
 }
