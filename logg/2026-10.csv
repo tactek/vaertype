@@ -1123,3 +1123,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-23T05:01+02:00,bomlo-nytt.no,precipitation,nedbør,"5,4 mm/t på Foldrøy",precipitation,nedbør,8.0,12.3,5.4,0.0,10.1,8.5,ok
 2026-10-23T05:01+02:00,strilen.no,precipitation,nedbør,"3,8 mm/t på Knarvik",precipitation,nedbør,9.5,16.7,3.8,0.0,11.1,5.3,ok
 2026-10-23T05:01+02:00,sunnhordland.no,precipitation,nedbør,"4,3 mm/t på Rubbestadneset",precipitation,nedbør,8.5,13.0,4.3,0.0,10.7,7.8,ok
+2026-10-23T05:30+02:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,10.4,16.4,1.5,0.3,10.3,8.6,ok
+2026-10-23T05:30+02:00,av-avis.no,precipitation,nedbør,"4,6 mm/t på Ramsøy",wind,årstid,9.7,14.6,1.4,0.0,9.8,8.6,ok
+2026-10-23T05:30+02:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.7,14.9,2.3,0.0,9.8,2.7,ok
+2026-10-23T05:30+02:00,bomlo-nytt.no,precipitation,nedbør,"5,4 mm/t på Foldrøy",wind,årstid,7.0,11.4,0.2,0.0,9.8,8.1,ok
+2026-10-23T05:30+02:00,strilen.no,precipitation,nedbør,"6,1 mm/t på Manger",precipitation,nedbør,9.0,16.0,6.1,0.05,11.0,5.2,ok
+2026-10-23T05:30+02:00,sunnhordland.no,precipitation,nedbør,"5,4 mm/t på Storebø",precipitation,nedbør,7.8,12.3,5.4,0.0,10.5,7.8,ok
