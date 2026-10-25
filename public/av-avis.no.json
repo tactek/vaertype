@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,2 mm/t på Hanevik",
-  "since": "2026-10-25T20:30+01:00",
-  "updated": "2026-10-25T23:02+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "since": "2026-10-25T23:30+01:00",
+  "updated": "2026-10-25T23:30+01:00"
 }
