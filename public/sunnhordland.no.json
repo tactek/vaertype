@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "vind",
-  "reason": "Vindkast 17,5 m/s på Rosendal",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
   "since": "2026-10-23T11:31+02:00",
-  "updated": "2026-10-25T17:30+01:00"
+  "updated": "2026-10-25T17:47+01:00"
 }
