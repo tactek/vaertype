@@ -2005,3 +2005,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-25T21:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.9,14.8,0.2,0.0,10.3,8.6,ok
 2026-10-25T21:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.8,10.2,2.7,0.0,10.1,5.7,ok
 2026-10-25T21:01+01:00,sunnhordland.no,precipitation,nedbør,"8,7 mm/t på Fjellgardane",precipitation,nedbør,9.3,16.6,8.7,0.0,10.7,8.1,ok
+2026-10-25T21:30+01:00,vestnytt.no,precipitation,nedbør,"6,9 mm/t på Bjelkarøy",precipitation,nedbør,7.5,14.0,6.9,2.0,10.2,8.5,ok
+2026-10-25T21:30+01:00,av-avis.no,precipitation,nedbør,"3,0 mm/t på Herdla",precipitation,nedbør,6.3,9.1,3.0,0.9,9.8,9.0,ok
+2026-10-25T21:30+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.9,10.6,0.9,0.2,9.0,2.5,ok
+2026-10-25T21:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.5,14.0,2.2,0.0,10.5,8.3,ok
+2026-10-25T21:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.4,9.9,1.6,0.2,10.0,5.6,ok
+2026-10-25T21:30+01:00,sunnhordland.no,precipitation,nedbør,"3,7 mm/t på Storebø",precipitation,nedbør,9.0,16.1,3.7,0.0,10.7,7.9,ok
