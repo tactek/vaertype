@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "6,1 mm/t på Bekkjarvik",
-  "since": "2026-10-25T23:30+01:00",
-  "updated": "2026-10-26T00:01+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 11,0 m/s på Ryvarden",
+  "since": "2026-10-26T00:30+01:00",
+  "updated": "2026-10-26T00:30+01:00"
 }
