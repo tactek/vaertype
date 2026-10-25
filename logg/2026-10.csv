@@ -2041,3 +2041,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-25T23:30+01:00,bomlo-nytt.no,precipitation,nedbør,"3,7 mm/t på Urangsvåg",precipitation,nedbør,7.7,11.8,3.7,0.0,10.1,8.5,ok
 2026-10-25T23:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.5,8.7,1.8,0.3,10.6,5.3,ok
 2026-10-25T23:30+01:00,sunnhordland.no,precipitation,nedbør,"6,1 mm/t på Bekkjarvik",precipitation,nedbør,9.0,12.8,6.1,0.0,11.2,8.2,ok
+2026-10-26T00:01+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,5.0,9.7,0.2,0.0,9.5,8.1,ok
+2026-10-26T00:01+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,5.4,8.5,0.0,0.0,9.1,8.1,ok
+2026-10-26T00:01+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.2,10.1,0.8,0.0,8.6,2.5,ok
+2026-10-26T00:01+01:00,bomlo-nytt.no,precipitation,nedbør,"3,7 mm/t på Urangsvåg",wind,årstid,7.2,11.0,1.9,0.1,10.2,8.5,ok
+2026-10-26T00:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,3.5,8.5,0.9,0.15000000000000002,10.3,5.2,ok
+2026-10-26T00:01+01:00,sunnhordland.no,precipitation,nedbør,"6,1 mm/t på Bekkjarvik",wind,årstid,10.7,14.2,1.7,0.0,10.7,8.0,ok
