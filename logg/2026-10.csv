@@ -1891,3 +1891,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-25T13:01+01:00,bomlo-nytt.no,wind,farevarsel,"Gult farevarsel: Kraftige vindkast, Hordaland",wind,farevarsel,12.8,19.4,3.9,1.0,10.4,9.0,ok
 2026-10-25T13:01+01:00,strilen.no,wind,farevarsel,"Gult farevarsel: Kraftige vindkast, Hordaland",wind,farevarsel,11.1,24.1,0.2,0.0,13.1,6.6,ok
 2026-10-25T13:01+01:00,sunnhordland.no,wind,farevarsel,"Gult farevarsel: Kraftige vindkast, Hordaland",wind,farevarsel,13.2,27.0,5.4,0.3,13.2,8.7,ok
+2026-10-25T13:30+01:00,vestnytt.no,wind,vind,"Middelvind 12,3 m/s på Tjeldstø",wind,vind,12.3,21.1,5.3,2.7,11.3,10.0,ok
+2026-10-25T13:30+01:00,av-avis.no,wind,vind,"Middelvind 11,8 m/s på Ramsøy",wind,vind,11.8,19.2,4.6,1.1,11.7,10.6,ok
+2026-10-25T13:30+01:00,bygdanytt.no,wind,vind,"Middelvind 10,9 m/s på Bruviknipa",wind,vind,10.9,21.0,4.2,1.7,12.3,3.2,ok
+2026-10-25T13:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 12,0 m/s på Espevær",wind,vind,12.0,19.1,4.9,3.9,10.2,9.3,ok
+2026-10-25T13:30+01:00,strilen.no,wind,vind,"Vindkast 22,9 m/s på Stordalen",wind,vind,10.7,22.9,1.9,0.0,12.8,6.2,ok
+2026-10-25T13:30+01:00,sunnhordland.no,wind,vind,"Middelvind 12,3 m/s på Slåtterøy fyr",wind,vind,12.3,26.3,3.9,0.2,13.4,8.8,ok
