@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,7 mm/t på Urangsvåg",
-  "since": "2026-10-25T22:30+01:00",
-  "updated": "2026-10-26T00:30+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 10,8 m/s på Espevær",
+  "since": "2026-10-26T01:01+01:00",
+  "updated": "2026-10-26T01:01+01:00"
 }
