@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "12,5 mm/t på Ulvøy",
-  "since": "2026-10-26T09:30+01:00",
-  "updated": "2026-10-26T10:01+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 11,1 m/s på Turøy",
+  "since": "2026-10-26T10:31+01:00",
+  "updated": "2026-10-26T10:31+01:00"
 }
