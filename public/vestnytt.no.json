@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,1 mm/t på Tellnes",
-  "since": "2026-10-26T01:15+01:00",
-  "updated": "2026-10-26T06:14+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "since": "2026-10-26T06:30+01:00",
+  "updated": "2026-10-26T06:30+01:00"
 }
