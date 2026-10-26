@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,1 mm/t på Stordalen",
-  "since": "2026-10-26T10:31+01:00",
-  "updated": "2026-10-26T13:30+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "since": "2026-10-26T14:01+01:00",
+  "updated": "2026-10-26T14:01+01:00"
 }
