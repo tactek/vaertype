@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "rule": "vind",
+  "reason": "Middelvind 11,5 m/s på Hernar",
   "since": "2026-10-26T10:31+01:00",
-  "updated": "2026-10-26T21:30+01:00"
+  "updated": "2026-10-26T22:01+01:00"
 }
