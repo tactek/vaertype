@@ -2173,3 +2173,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-26T09:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 12,7 m/s på Espevær",wind,vind,12.7,18.4,3.6,0.6,11.2,9.8,ok
 2026-10-26T09:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.2,10.4,2.5,0.0,10.1,4.6,ok
 2026-10-26T09:30+01:00,sunnhordland.no,wind,vind,"Middelvind 12,3 m/s på Espevær",wind,vind,12.3,18.2,4.1,0.0,11.2,8.2,ok
+2026-10-26T10:01+01:00,vestnytt.no,precipitation,nedbør,"12,5 mm/t på Ulvøy",precipitation,nedbør,10.6,14.4,12.5,1.8,10.8,9.8,ok
+2026-10-26T10:01+01:00,av-avis.no,precipitation,nedbør,"8,7 mm/t på Merkesvik",precipitation,nedbør,9.0,13.1,8.7,1.7,10.8,9.3,ok
+2026-10-26T10:01+01:00,bygdanytt.no,precipitation,nedbør,"3,7 mm/t på Valestrand",precipitation,nedbør,5.6,13.4,3.7,0.4,9.5,3.2,ok
+2026-10-26T10:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 13,1 m/s på Espevær",wind,vind,13.1,19.6,1.1,0.3,11.1,10.0,ok
+2026-10-26T10:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.1,12.5,2.0,0.45,10.3,4.8,ok
+2026-10-26T10:01+01:00,sunnhordland.no,wind,vind,"Middelvind 13,0 m/s på Ryvarden",wind,vind,13.0,19.3,3.4,0.4,11.2,8.4,ok
