@@ -2065,3 +2065,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-26T01:15+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,5 m/s på Espevær",wind,vind,11.5,15.4,0.6,0.0,10.7,8.8,ok
 2026-10-26T01:15+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,3.5,5.8,0.4,0.2,10.0,4.7,ok
 2026-10-26T01:15+01:00,sunnhordland.no,wind,vind,"Middelvind 11,1 m/s på Espevær",wind,vind,11.1,15.3,1.6,0.0,10.6,7.7,ok
+2026-10-26T01:30+01:00,vestnytt.no,precipitation,nedbør,"4,0 mm/t på Solsvik",precipitation,nedbør,4.8,7.9,4.0,0.2,10.0,8.5,ok
+2026-10-26T01:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,2.7,6.0,1.7,0.0,8.7,7.8,ok
+2026-10-26T01:30+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.1,9.4,0.0,0.0,8.5,2.8,ok
+2026-10-26T01:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.0,13.9,0.5,0.0,10.7,8.7,ok
+2026-10-26T01:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,3.6,5.9,0.6,0.1,9.9,4.7,ok
+2026-10-26T01:30+01:00,sunnhordland.no,wind,vind,"Middelvind 11,1 m/s på Espevær",wind,vind,11.1,15.6,0.6,0.0,10.6,7.8,ok
