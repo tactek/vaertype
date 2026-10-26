@@ -2089,3 +2089,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-26T03:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,0 m/s på Espevær",wind,vind,11.0,14.9,1.4,0.0,10.8,8.9,ok
 2026-10-26T03:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,2.8,5.0,1.2,0.35,9.7,4.1,ok
 2026-10-26T03:01+01:00,sunnhordland.no,wind,vind,"Middelvind 11,0 m/s på Ryvarden",wind,vind,11.0,14.8,3.6,0.0,10.9,8.1,ok
+2026-10-26T03:30+01:00,vestnytt.no,precipitation,nedbør,"3,5 mm/t på Lerøy",wind,årstid,7.7,13.1,1.4,0.0,10.0,8.2,ok
+2026-10-26T03:30+01:00,av-avis.no,precipitation,nedbør,"3,3 mm/t på Juvik",precipitation,nedbør,3.6,5.2,3.3,1.4,8.7,7.4,ok
+2026-10-26T03:30+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,4.4,8.8,1.5,0.5,8.3,3.0,ok
+2026-10-26T03:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 12,2 m/s på Espevær",wind,vind,12.2,16.6,0.0,0.0,10.9,9.2,ok
+2026-10-26T03:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,3.3,5.7,0.5,0.1,9.8,4.1,ok
+2026-10-26T03:30+01:00,sunnhordland.no,wind,vind,"Middelvind 12,1 m/s på Ryvarden",wind,vind,12.1,16.4,0.4,0.0,11.0,8.2,ok
