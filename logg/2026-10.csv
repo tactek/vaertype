@@ -2137,3 +2137,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-26T06:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,7 m/s på Espevær",wind,vind,11.7,16.1,1.2,0.0,10.8,9.5,ok
 2026-10-26T06:30+01:00,strilen.no,precipitation,nedbør,"4,6 mm/t på Knarvik",precipitation,nedbør,6.6,10.6,4.6,0.35,10.1,4.7,ok
 2026-10-26T06:30+01:00,sunnhordland.no,wind,vind,"Middelvind 11,9 m/s på Ryvarden",wind,vind,11.9,16.3,4.2,0.0,11.1,8.0,ok
+2026-10-26T07:01+01:00,vestnytt.no,wind,vind,"Vindkast 17,0 m/s på Alvheim",wind,vind,10.3,17.0,9.4,1.1,9.5,7.9,ok
+2026-10-26T07:01+01:00,av-avis.no,precipitation,nedbør,"Minst 1,0 mm/t på 23 av 27 steder",precipitation,nedbør,9.1,15.5,2.9,1.5,9.6,8.5,ok
+2026-10-26T07:01+01:00,bygdanytt.no,precipitation,nedbør,"8,4 mm/t på Lonevåg",precipitation,nedbør,2.9,10.4,8.4,0.7,8.8,3.0,ok
+2026-10-26T07:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,6 m/s på Espevær",wind,vind,11.6,15.9,0.6,0.0,10.6,9.6,ok
+2026-10-26T07:01+01:00,strilen.no,precipitation,nedbør,"4,6 mm/t på Knarvik",wind,årstid,7.1,12.3,2.2,0.7,9.5,4.7,ok
+2026-10-26T07:01+01:00,sunnhordland.no,wind,vind,"Middelvind 11,8 m/s på Ryvarden",wind,vind,11.8,16.0,2.2,0.0,10.8,8.1,ok
