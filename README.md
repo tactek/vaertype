@@ -54,7 +54,11 @@ Jobben kjører hver halvtime og bruker de samme tallene som stripen viser (Haral
 
 5. **Ellers årstiden:** kaldt i desember-februar, varmt i mars-august og vind i september-november. Nedbør er aldri standard, for på en tørr dag ville stripen bare vist nuller.
 
-Stripen holder en type i minst tre timer, så den ikke bytter fram og tilbake. Bare en regel høyere opp i lista kan bytte før det.
+Stripen holder en type i minst tre timer, så den ikke bytter fram og tilbake. En regel høyere opp i lista eller
+et farevarsel med høyere alvorlighetsgrad kan bytte før det. Alvorlighetsgraden lagres som `alert_level`
+(2 = gult, 3 = oransje, 4 = rødt), også når et tidligere farevarsel holdes. Eldre farevarselvalg uten dette feltet
+kan erstattes av et nytt farevarsel med kjent alvorlighetsgrad. Ugyldige tidligere resultater forkastes, og
+jobben beregner et nytt valg for avisen.
 
 Alle tersklene er første gjetninger og står øverst i `scripts/velg_type.py`.
 

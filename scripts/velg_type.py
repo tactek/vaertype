@@ -100,7 +100,7 @@ def alert_rule(alerts, locations):
         rank = (int(level), weathertype == "wind")
         if best is None or rank > best[0]:
             reason = f"{ALERT_COLOURS.get(colour, colour)} farevarsel: {props['eventAwarenessName']}, {props['area']}"
-            best = (rank, candidate("farevarsel", weathertype, reason))
+            best = (rank, candidate("farevarsel", weathertype, reason) | {"alert_level": int(level)})
     return best[1] if best else None
 
 
@@ -138,19 +138,30 @@ def evaluate(now, temps, winds, rain, alerts, locations):
 
 
 def apply_hold(now, found, previous):
-    """Keep the shown type for MIN_HOLD unless a more important rule takes over."""
+    """Keep the type for MIN_HOLD unless a higher rule or more serious alert takes over."""
     stamp = now.isoformat(timespec="minutes")
     try:
         since = datetime.fromisoformat(previous["since"])
-        valid = previous["weathertype"] in TYPES
+        valid = (since.utcoffset() is not None and since <= now
+                 and previous["weathertype"] in TYPES
+                 and previous["rule"] in RULE_PRIORITY
+                 and isinstance(previous["reason"], str)
+                 and ("alert_level" not in previous
+                      or (type(previous["alert_level"]) is int and previous["alert_level"] in (2, 3, 4))))
     except (TypeError, KeyError, ValueError):
         valid = False
     if valid:
         if found["weathertype"] == previous["weathertype"]:
             return {**found, "since": previous["since"], "updated": stamp}
-        more_important = RULE_PRIORITY[found["rule"]] < RULE_PRIORITY.get(previous.get("rule"), 5)
-        if not more_important and now - since < MIN_HOLD:
-            return {key: previous[key] for key in ("weathertype", "rule", "reason", "since")} | {"updated": stamp}
+        more_important = RULE_PRIORITY[found["rule"]] < RULE_PRIORITY[previous["rule"]]
+        # Older files have no severity. Let a fresh alert replace an unknown one.
+        stronger_alert = (found["rule"] == previous["rule"] == "farevarsel"
+                          and found.get("alert_level", 0) > previous.get("alert_level", 0))
+        if not more_important and not stronger_alert and now - since < MIN_HOLD:
+            held = {key: previous[key] for key in ("weathertype", "rule", "reason", "since")}
+            if previous["rule"] == "farevarsel" and "alert_level" in previous:
+                held["alert_level"] = previous["alert_level"]
+            return held | {"updated": stamp}
     return {**found, "since": stamp, "updated": stamp}
 
 

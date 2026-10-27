@@ -1,7 +1,12 @@
+import json
 import sys
 import unittest
+from contextlib import redirect_stdout
 from datetime import datetime, timedelta
+from io import StringIO
 from pathlib import Path
+from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 import velg_type as v  # noqa: E402
@@ -128,6 +133,89 @@ class Hold(unittest.TestCase):
     def test_broken_previous_file_is_ignored(self):
         result = v.apply_hold(OCTOBER, v.candidate("vind", "wind", "x"), {"weathertype": "wind"})
         self.assertEqual(result["since"], OCTOBER.isoformat(timespec="minutes"))
+
+    def test_more_serious_alert_switches_at_once(self):
+        for level in ("3; orange; Severe", "4; red; Extreme"):
+            with self.subTest(level=level):
+                previous = v.apply_hold(OCTOBER - timedelta(minutes=30), run(alerts=[alert("wind")]), None)
+                found = run(alerts=[alert("wind"), alert("rain", level=level)])
+                result = v.apply_hold(OCTOBER, found, previous)
+                self.assertEqual(result["weathertype"], "precipitation")
+                self.assertEqual(result["reason"], found["reason"])
+                self.assertEqual(result["since"], OCTOBER.isoformat(timespec="minutes"))
+
+    def test_equal_or_less_serious_alert_waits(self):
+        previous = v.apply_hold(OCTOBER - timedelta(minutes=30), run(alerts=[alert("wind", level="3; orange; Severe")]), None)
+        for level in ("2; yellow; Moderate", "3; orange; Severe"):
+            with self.subTest(level=level):
+                result = v.apply_hold(OCTOBER, run(alerts=[alert("rain", level=level)]), previous)
+                self.assertEqual(result["weathertype"], "wind")
+                self.assertEqual(result["alert_level"], 3)
+                self.assertEqual(result["since"], previous["since"])
+
+    def test_held_alert_keeps_severity_for_next_run(self):
+        previous = v.apply_hold(OCTOBER - timedelta(minutes=30), run(alerts=[alert("rain", level="4; red; Extreme")]), None)
+        held = v.apply_hold(OCTOBER, run(), previous)
+        # Simulate saving and reading the JSON between runs.
+        held = json.loads(json.dumps(held))
+        result = v.apply_hold(OCTOBER + timedelta(minutes=30), run(alerts=[alert("wind")]), held)
+        self.assertEqual(result["weathertype"], "precipitation")
+        self.assertEqual(result["alert_level"], 4)
+
+    def test_same_type_updates_severity_without_resetting_since(self):
+        previous = v.apply_hold(OCTOBER - timedelta(minutes=30), run(alerts=[alert("wind")]), None)
+        result = v.apply_hold(OCTOBER, run(alerts=[alert("wind", level="4; red; Extreme")]), previous)
+        self.assertEqual(result["alert_level"], 4)
+        self.assertEqual(result["since"], previous["since"])
+
+    def test_legacy_alert_without_severity_does_not_block_new_alert(self):
+        previous = self.previous("farevarsel", "wind", 0.5)
+        result = v.apply_hold(OCTOBER, run(alerts=[alert("rain", level="4; red; Extreme")]), previous)
+        self.assertEqual(result["weathertype"], "precipitation")
+
+    def test_invalid_previous_state_is_replaced(self):
+        previous = self.previous("vind", "wind", 0.5)
+        broken = [None, [], "wind", 42]
+        broken.extend({k: val for k, val in previous.items() if k != missing}
+                      for missing in ("weathertype", "rule", "reason", "since"))
+        broken.extend(previous | change for change in (
+            {"since": "2026-10-09T13:00"}, {"since": "invalid"},
+            {"since": (OCTOBER + timedelta(days=1)).isoformat()},
+            {"rule": []}, {"rule": "unknown"}, {"reason": None},
+            {"weathertype": "unknown"}, {"alert_level": "red"},
+            {"alert_level": True}, {"alert_level": 99},
+        ))
+        for previous in broken:
+            for weathertype in ("warm", "wind"):
+                with self.subTest(previous=previous, weathertype=weathertype):
+                    found = v.candidate("årstid", weathertype, "nå")
+                    result = v.apply_hold(OCTOBER, found, previous)
+                    self.assertEqual(result, found | {"since": OCTOBER.isoformat(timespec="minutes"),
+                                                     "updated": OCTOBER.isoformat(timespec="minutes")})
+
+
+class Job(unittest.TestCase):
+    def test_broken_previous_file_does_not_stop_other_papers(self):
+        with TemporaryDirectory() as tmp:
+            public = Path(tmp) / "public"
+            public.mkdir()
+            (public / "first.no.json").write_text(json.dumps({
+                "weathertype": "precipitation", "rule": "farevarsel",
+                "since": datetime.now(v.OSLO).isoformat(),  # Missing reason.
+            }))
+            with (patch.object(v, "PUBLIC", public),
+                  patch.object(v, "LOG_DIR", Path(tmp) / "logg"),
+                  patch.object(v, "DOMAINS", ("first.no", "second.no")),
+                  patch.object(v, "fetch", side_effect=[({"features": []}, None),
+                                                        ({"data": LOCATIONS}, None),
+                                                        ({"data": LOCATIONS}, None)]),
+                  patch.object(v, "fetch_weather", return_value=(CALM["temps"], CALM["winds"], CALM["rain"])),
+                  patch.object(sys, "argv", ["velg_type.py"]), redirect_stdout(StringIO())):
+                self.assertEqual(v.main(), 0)
+            for domain in ("first.no", "second.no"):
+                result = json.loads((public / f"{domain}.json").read_text())
+                self.assertIn(result["weathertype"], v.TYPES)
+                self.assertIn("reason", result)
 
 
 if __name__ == "__main__":
