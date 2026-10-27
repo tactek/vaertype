@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
+  "rule": "vind",
+  "reason": "Vindkast 17,1 m/s på Skjerjehamn",
   "since": "2026-10-26T14:01+01:00",
-  "updated": "2026-10-27T02:01+01:00"
+  "updated": "2026-10-27T02:30+01:00"
 }
