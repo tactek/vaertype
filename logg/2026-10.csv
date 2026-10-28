@@ -2845,3 +2845,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T13:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 13,8 m/s på Espevær",wind,vind,13.8,19.4,0.8,0.0,11.1,9.5,ok
 2026-10-28T13:01+01:00,strilen.no,wind,vind,"Vindkast 17,9 m/s på Bøvågen",wind,vind,8.8,17.9,8.4,0.95,10.5,4.8,ok
 2026-10-28T13:01+01:00,sunnhordland.no,wind,vind,"Middelvind 13,6 m/s på Espevær",wind,vind,13.6,19.4,2.6,0.0,11.0,8.5,ok
+2026-10-28T13:30+01:00,vestnytt.no,wind,vind,"Middelvind 11,3 m/s på Lokøy",wind,vind,11.3,20.4,7.5,0.8,10.8,9.5,ok
+2026-10-28T13:30+01:00,av-avis.no,wind,vind,"Middelvind 11,5 m/s på Hanøy",wind,vind,11.5,18.2,7.3,1.8,11.0,9.7,ok
+2026-10-28T13:30+01:00,bygdanytt.no,wind,vind,"Vindkast 21,4 m/s på Gullfjellet",wind,vind,10.1,21.4,9.2,4.9,10.2,3.9,ok
+2026-10-28T13:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 13,8 m/s på Espevær",wind,vind,13.8,19.6,0.4,0.0,11.4,10.0,ok
+2026-10-28T13:30+01:00,strilen.no,precipitation,nedbør,"7,9 mm/t på Duesund",precipitation,nedbør,8.0,16.4,7.9,0.6,10.6,4.9,ok
+2026-10-28T13:30+01:00,sunnhordland.no,wind,vind,"Middelvind 13,3 m/s på Espevær",wind,vind,13.3,19.5,2.9,0.0,11.2,8.6,ok
