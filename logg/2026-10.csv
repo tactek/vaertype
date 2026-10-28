@@ -2857,3 +2857,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T14:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 13,3 m/s på Espevær",wind,vind,13.3,19.8,2.7,0.0,11.6,10.4,ok
 2026-10-28T14:01+01:00,strilen.no,precipitation,nedbør,"3,2 mm/t på Dyrkolbotn",precipitation,nedbør,8.7,16.8,3.2,0.35,10.9,5.1,ok
 2026-10-28T14:01+01:00,sunnhordland.no,wind,vind,"Middelvind 13,1 m/s på Slåtterøy fyr",wind,vind,13.1,19.7,0.9,0.0,11.5,8.9,ok
+2026-10-28T14:30+01:00,vestnytt.no,wind,vind,"Vindkast 19,0 m/s på Kausland",wind,vind,10.0,19.0,2.7,0.1,11.2,10.2,ok
+2026-10-28T14:30+01:00,av-avis.no,wind,vind,"Vindkast 18,2 m/s på Davanger",wind,vind,8.5,18.2,2.6,0.4,11.3,10.1,ok
+2026-10-28T14:30+01:00,bygdanytt.no,wind,vind,"Vindkast 19,8 m/s på Gullfjellet",wind,vind,8.7,19.8,7.1,1.9,10.5,4.3,ok
+2026-10-28T14:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 12,7 m/s på Espevær",wind,vind,12.7,19.7,3.5,0.0,11.6,10.5,ok
+2026-10-28T14:30+01:00,strilen.no,precipitation,nedbør,"5,8 mm/t på Frekhaug",precipitation,nedbør,8.1,16.1,5.8,0.1,10.9,5.1,ok
+2026-10-28T14:30+01:00,sunnhordland.no,wind,vind,"Middelvind 12,8 m/s på Slåtterøy fyr",wind,vind,12.8,19.7,4.4,0.0,11.6,9.0,ok
