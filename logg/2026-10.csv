@@ -2941,3 +2941,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T20:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.7,9.9,0.5,0.0,10.9,8.9,ok
 2026-10-28T20:30+01:00,strilen.no,precipitation,nedbør,"3,3 mm/t på Dyrkolbotn",precipitation,nedbør,7.3,12.7,3.3,0.3,11.2,5.2,ok
 2026-10-28T20:30+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.9,10.2,0.4,0.0,11.3,8.1,ok
+2026-10-28T21:01+01:00,vestnytt.no,precipitation,nedbør,"3,7 mm/t på Anglevik",wind,årstid,9.3,12.6,0.3,0.0,11.1,9.7,ok
+2026-10-28T21:01+01:00,av-avis.no,precipitation,nedbør,"3,5 mm/t på Kleppe",precipitation,nedbør,7.5,11.4,3.5,0.0,11.2,9.3,ok
+2026-10-28T21:01+01:00,bygdanytt.no,precipitation,nedbør,"6,6 mm/t på Tyssebotn",precipitation,nedbør,5.4,12.2,6.6,0.1,10.0,3.6,ok
+2026-10-28T21:01+01:00,bomlo-nytt.no,precipitation,nedbør,"4,5 mm/t på Håvik",precipitation,nedbør,6.8,10.6,4.5,0.0,11.0,8.9,ok
+2026-10-28T21:01+01:00,strilen.no,precipitation,nedbør,"3,3 mm/t på Dyrkolbotn",wind,årstid,7.4,13.1,2.7,0.0,11.1,4.9,ok
+2026-10-28T21:01+01:00,sunnhordland.no,precipitation,nedbør,"4,0 mm/t på Fitjar",precipitation,nedbør,7.1,10.5,4.0,0.0,11.4,8.1,ok

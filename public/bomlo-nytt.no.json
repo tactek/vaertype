@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for oktober",
-  "since": "2026-10-28T07:01+01:00",
-  "updated": "2026-10-28T20:30+01:00"
+  "weathertype": "precipitation",
+  "rule": "nedbør",
+  "reason": "4,5 mm/t på Håvik",
+  "since": "2026-10-28T21:01+01:00",
+  "updated": "2026-10-28T21:01+01:00"
 }
