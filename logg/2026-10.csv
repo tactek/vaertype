@@ -2767,3 +2767,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T07:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,9.9,14.0,0.2,0.0,11.0,9.7,ok
 2026-10-28T07:01+01:00,strilen.no,precipitation,nedbør,"3,5 mm/t på Nonkletten",precipitation,nedbør,10.4,16.2,3.5,0.0,10.5,3.7,ok
 2026-10-28T07:01+01:00,sunnhordland.no,precipitation,nedbør,"3,2 mm/t på Fjellgardane",wind,årstid,10.3,14.3,0.7,0.0,11.0,8.4,ok
+2026-10-28T07:30+01:00,vestnytt.no,wind,vind,"Middelvind 12,2 m/s på Hernar",wind,vind,12.2,16.5,0.0,0.0,10.7,9.4,ok
+2026-10-28T07:30+01:00,av-avis.no,wind,vind,"Middelvind 11,3 m/s på Herdla",wind,vind,11.3,16.2,0.0,0.0,10.8,9.4,ok
+2026-10-28T07:30+01:00,bygdanytt.no,precipitation,nedbør,"6,2 mm/t på Bruviknipa",wind,årstid,8.9,16.8,0.7,0.0,9.8,2.7,ok
+2026-10-28T07:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,10.7,15.2,0.0,0.0,11.2,9.9,ok
+2026-10-28T07:30+01:00,strilen.no,precipitation,nedbør,"3,5 mm/t på Nonkletten",wind,årstid,10.6,16.0,0.7,0.0,10.6,3.8,ok
+2026-10-28T07:30+01:00,sunnhordland.no,precipitation,nedbør,"3,2 mm/t på Fjellgardane",wind,årstid,10.5,14.5,0.0,0.0,11.0,8.4,ok
