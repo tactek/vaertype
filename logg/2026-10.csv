@@ -2689,3 +2689,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T01:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,0 m/s på Brandasund",wind,vind,11.0,15.3,2.3,0.0,11.5,10.5,ok
 2026-10-28T01:01+01:00,strilen.no,wind,vind,"Middelvind 11,2 m/s på Skjelanger",wind,vind,11.2,19.4,3.3,0.0,10.9,5.0,ok
 2026-10-28T01:01+01:00,sunnhordland.no,wind,vind,"Middelvind 11,2 m/s på Slåtterøy fyr",wind,vind,11.2,15.6,8.5,0.0,11.6,8.7,ok
+2026-10-28T01:30+01:00,vestnytt.no,wind,vind,"Middelvind 12,9 m/s på Hernar",wind,vind,12.9,17.7,4.5,0.0,11.1,10.1,ok
+2026-10-28T01:30+01:00,av-avis.no,wind,vind,"Middelvind 11,6 m/s på Herdla",wind,vind,11.6,16.9,0.0,0.0,11.2,10.1,ok
+2026-10-28T01:30+01:00,bygdanytt.no,wind,vind,"Vindkast 19,2 m/s på Gullfjellet",wind,vind,10.3,19.2,0.4,0.0,10.7,3.0,ok
+2026-10-28T01:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,4 m/s på Brandasund",wind,vind,11.4,15.9,0.0,0.0,11.3,10.2,ok
+2026-10-28T01:30+01:00,strilen.no,wind,vind,"Middelvind 11,2 m/s på Skjelanger",wind,vind,11.2,19.1,0.5,0.0,10.7,4.9,ok
+2026-10-28T01:30+01:00,sunnhordland.no,wind,vind,"Middelvind 11,2 m/s på Slåtterøy fyr",wind,vind,11.2,15.4,5.5,0.0,11.5,8.5,ok
