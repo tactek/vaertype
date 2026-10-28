@@ -2731,3 +2731,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T04:01+01:00,bomlo-nytt.no,precipitation,nedbør,"3,1 mm/t på Lykling",precipitation,nedbør,10.3,15.0,3.1,0.0,10.8,9.6,ok
 2026-10-28T04:01+01:00,strilen.no,wind,vind,"Middelvind 11,2 m/s på Skjelanger",wind,vind,11.2,17.6,0.0,0.0,10.5,4.0,ok
 2026-10-28T04:01+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,10.7,15.5,0.2,0.0,10.9,8.0,ok
+2026-10-28T04:30+01:00,vestnytt.no,wind,vind,"Middelvind 12,8 m/s på Hernar",wind,vind,12.8,18.0,1.2,0.0,10.4,9.2,ok
+2026-10-28T04:30+01:00,av-avis.no,wind,vind,"Middelvind 11,2 m/s på Herdla",wind,vind,11.2,16.4,0.0,0.0,10.6,9.1,ok
+2026-10-28T04:30+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,9.4,16.5,2.6,0.0,9.7,2.5,ok
+2026-10-28T04:30+01:00,bomlo-nytt.no,precipitation,nedbør,"3,1 mm/t på Lykling",wind,årstid,10.5,15.1,0.0,0.0,10.9,9.7,ok
+2026-10-28T04:30+01:00,strilen.no,wind,vind,"Middelvind 11,0 m/s på Skjelanger",wind,vind,11.0,17.2,0.0,0.0,10.5,4.1,ok
+2026-10-28T04:30+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,10.5,15.1,1.5,0.0,10.8,8.0,ok
