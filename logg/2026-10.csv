@@ -2749,3 +2749,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-28T05:30+01:00,bomlo-nytt.no,precipitation,nedbør,"3,1 mm/t på Lykling",wind,årstid,10.1,14.8,0.0,0.0,10.8,9.5,ok
 2026-10-28T05:30+01:00,strilen.no,wind,vind,"Middelvind 10,8 m/s på Skjelanger",wind,vind,10.8,16.9,0.2,0.0,10.6,3.5,ok
 2026-10-28T05:30+01:00,sunnhordland.no,precipitation,nedbør,"3,2 mm/t på Fjellgardane",wind,årstid,10.4,14.9,0.1,0.0,10.9,8.4,ok
+2026-10-28T06:01+01:00,vestnytt.no,wind,vind,"Middelvind 12,3 m/s på Hernar",wind,vind,12.3,17.0,1.6,0.0,10.6,9.3,ok
+2026-10-28T06:01+01:00,av-avis.no,precipitation,nedbør,"3,5 mm/t på Merkesvik",precipitation,nedbør,10.6,15.8,3.5,0.0,10.8,9.1,ok
+2026-10-28T06:01+01:00,bygdanytt.no,precipitation,nedbør,"6,2 mm/t på Bruviknipa",wind,årstid,9.0,16.3,0.5,0.0,9.8,2.6,ok
+2026-10-28T06:01+01:00,bomlo-nytt.no,precipitation,nedbør,"3,1 mm/t på Lykling",wind,årstid,9.8,14.7,0.4,0.0,10.8,9.5,ok
+2026-10-28T06:01+01:00,strilen.no,precipitation,nedbør,"4,0 mm/t på Årås",precipitation,nedbør,10.6,16.6,4.0,0.0,10.8,3.6,ok
+2026-10-28T06:01+01:00,sunnhordland.no,precipitation,nedbør,"3,2 mm/t på Fjellgardane",wind,årstid,10.1,14.7,0.7,0.0,10.8,8.4,ok
