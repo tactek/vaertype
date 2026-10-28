@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "8,2 mm/t på Trengereid",
-  "since": "2026-10-28T09:01+01:00",
-  "updated": "2026-10-28T09:30+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Vindkast 17,5 m/s på Gullfjellet",
+  "since": "2026-10-28T09:58+01:00",
+  "updated": "2026-10-28T09:58+01:00"
 }
