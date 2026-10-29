@@ -2995,3 +2995,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-29T00:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,5.7,9.2,0.0,0.0,11.4,9.2,ok
 2026-10-29T00:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.6,13.5,0.7,0.0,11.0,4.8,ok
 2026-10-29T00:30+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.1,9.9,0.0,0.0,11.6,7.8,ok
+2026-10-29T01:01+01:00,vestnytt.no,precipitation,nedbør,"4,9 mm/t på Rong",precipitation,nedbør,10.2,13.6,4.9,0.0,11.2,10.0,ok
+2026-10-29T01:01+01:00,av-avis.no,precipitation,nedbør,"3,4 mm/t på Fromreide",precipitation,nedbør,8.3,12.3,3.4,0.7,11.2,9.4,ok
+2026-10-29T01:01+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,5.4,12.0,1.7,0.0,10.4,3.5,ok
+2026-10-29T01:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.1,8.8,0.2,0.0,11.4,9.1,ok
+2026-10-29T01:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.3,13.3,1.9,0.25,11.1,4.8,ok
+2026-10-29T01:01+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.6,9.6,0.5,0.0,11.8,7.9,ok
