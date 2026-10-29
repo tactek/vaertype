@@ -3055,3 +3055,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-29T05:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,8.0,11.0,1.1,0.0,11.9,10.5,ok
 2026-10-29T05:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.0,12.7,0.3,0.0,11.0,5.2,ok
 2026-10-29T05:01+01:00,sunnhordland.no,precipitation,nedbør,"13,0 mm/t på Uggdal",precipitation,nedbør,8.1,11.0,13.0,0.0,12.0,9.2,ok
+2026-10-29T05:30+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,9.5,13.8,1.2,0.1,11.4,10.3,ok
+2026-10-29T05:30+01:00,av-avis.no,precipitation,nedbør,"4,2 mm/t på Heggernes",precipitation,nedbør,7.5,11.0,4.2,0.7,11.5,10.1,ok
+2026-10-29T05:30+01:00,bygdanytt.no,precipitation,nedbør,"4,7 mm/t på Valestrand",precipitation,nedbør,6.5,12.7,4.7,0.9,10.6,4.7,ok
+2026-10-29T05:30+01:00,bomlo-nytt.no,precipitation,nedbør,"4,7 mm/t på Svortland",precipitation,nedbør,8.0,11.2,4.7,1.6,11.9,10.7,ok
+2026-10-29T05:30+01:00,strilen.no,precipitation,nedbør,"3,9 mm/t på Frekhaug",precipitation,nedbør,7.5,11.9,3.9,0.0,11.0,5.2,ok
+2026-10-29T05:30+01:00,sunnhordland.no,precipitation,nedbør,"13,0 mm/t på Uggdal",wind,årstid,8.1,11.1,2.5,0.0,12.1,9.4,ok
