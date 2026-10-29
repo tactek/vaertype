@@ -3019,3 +3019,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-29T02:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,6.9,10.0,0.0,0.0,11.4,9.9,ok
 2026-10-29T02:01+01:00,strilen.no,precipitation,nedbør,"4,1 mm/t på Frekhaug",wind,årstid,8.3,14.5,1.1,0.0,11.0,5.1,ok
 2026-10-29T02:01+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.1,9.8,0.0,0.0,11.4,8.4,ok
+2026-10-29T02:30+01:00,vestnytt.no,precipitation,nedbør,"4,9 mm/t på Rong",wind,årstid,10.0,14.9,0.0,0.0,11.2,10.1,ok
+2026-10-29T02:30+01:00,av-avis.no,precipitation,nedbør,"3,5 mm/t på Ask",wind,årstid,8.4,13.7,0.0,0.0,11.2,9.8,ok
+2026-10-29T02:30+01:00,bygdanytt.no,precipitation,nedbør,"4,8 mm/t på Bruviknipa",precipitation,nedbør,6.5,14.5,4.8,0.0,10.5,4.0,ok
+2026-10-29T02:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.5,10.5,0.0,0.0,11.5,10.1,ok
+2026-10-29T02:30+01:00,strilen.no,precipitation,nedbør,"4,1 mm/t på Frekhaug",wind,årstid,8.0,14.9,0.0,0.0,11.0,5.3,ok
+2026-10-29T02:30+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,7.5,10.2,0.0,0.0,11.4,8.5,ok
