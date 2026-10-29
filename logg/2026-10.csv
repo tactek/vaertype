@@ -3067,3 +3067,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-29T06:01+01:00,bomlo-nytt.no,precipitation,nedbør,"4,7 mm/t på Svortland",wind,årstid,7.9,11.7,2.0,0.3,12.0,10.9,ok
 2026-10-29T06:01+01:00,strilen.no,precipitation,nedbør,"3,9 mm/t på Frekhaug",wind,årstid,7.8,12.4,0.4,0.0,11.4,5.3,ok
 2026-10-29T06:01+01:00,sunnhordland.no,precipitation,nedbør,"9,6 mm/t på Heiane",precipitation,nedbør,8.1,11.3,9.6,0.0,12.0,9.4,ok
+2026-10-29T06:30+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,10.2,14.9,1.1,0.0,11.6,10.5,ok
+2026-10-29T06:30+01:00,av-avis.no,precipitation,nedbør,"4,2 mm/t på Heggernes",wind,årstid,8.3,13.4,0.2,0.0,11.5,10.3,ok
+2026-10-29T06:30+01:00,bygdanytt.no,precipitation,nedbør,"6,4 mm/t på Bruviknipa",wind,årstid,8.0,14.9,0.4,0.2,10.7,4.2,ok
+2026-10-29T06:30+01:00,bomlo-nytt.no,precipitation,nedbør,"4,7 mm/t på Svortland",wind,årstid,7.7,11.7,0.9,0.3,11.9,10.7,ok
+2026-10-29T06:30+01:00,strilen.no,precipitation,nedbør,"3,9 mm/t på Frekhaug",wind,årstid,8.1,13.2,0.2,0.0,11.5,5.5,ok
+2026-10-29T06:30+01:00,sunnhordland.no,precipitation,nedbør,"4,7 mm/t på Rommetveit",precipitation,nedbør,8.0,11.2,4.7,0.0,12.0,9.5,ok
