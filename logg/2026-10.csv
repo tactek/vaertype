@@ -3061,3 +3061,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-10-29T05:30+01:00,bomlo-nytt.no,precipitation,nedbør,"4,7 mm/t på Svortland",precipitation,nedbør,8.0,11.2,4.7,1.6,11.9,10.7,ok
 2026-10-29T05:30+01:00,strilen.no,precipitation,nedbør,"3,9 mm/t på Frekhaug",precipitation,nedbør,7.5,11.9,3.9,0.0,11.0,5.2,ok
 2026-10-29T05:30+01:00,sunnhordland.no,precipitation,nedbør,"13,0 mm/t på Uggdal",wind,årstid,8.1,11.1,2.5,0.0,12.1,9.4,ok
+2026-10-29T06:01+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for oktober",wind,årstid,10.0,14.6,0.9,0.0,11.6,10.5,ok
+2026-10-29T06:01+01:00,av-avis.no,precipitation,nedbør,"4,2 mm/t på Heggernes",wind,årstid,8.0,13.1,0.9,0.0,11.7,10.2,ok
+2026-10-29T06:01+01:00,bygdanytt.no,precipitation,nedbør,"6,4 mm/t på Bruviknipa",precipitation,nedbør,7.7,14.4,6.4,0.3,10.8,4.9,ok
+2026-10-29T06:01+01:00,bomlo-nytt.no,precipitation,nedbør,"4,7 mm/t på Svortland",wind,årstid,7.9,11.7,2.0,0.3,12.0,10.9,ok
+2026-10-29T06:01+01:00,strilen.no,precipitation,nedbør,"3,9 mm/t på Frekhaug",wind,årstid,7.8,12.4,0.4,0.0,11.4,5.3,ok
+2026-10-29T06:01+01:00,sunnhordland.no,precipitation,nedbør,"9,6 mm/t på Heiane",precipitation,nedbør,8.1,11.3,9.6,0.0,12.0,9.4,ok
