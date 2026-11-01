@@ -107,3 +107,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-01T08:01+01:00,bomlo-nytt.no,precipitation,nedbør,"Minst 1,0 mm/t på 11 av 15 steder",wind,årstid,5.4,8.0,1.7,0.4,11.2,9.6,ok
 2026-11-01T08:01+01:00,strilen.no,precipitation,nedbør,"3,1 mm/t på Nonkletten",wind,årstid,5.4,8.7,0.0,0.0,10.6,6.3,ok
 2026-11-01T08:01+01:00,sunnhordland.no,precipitation,nedbør,"4,0 mm/t på Fitjar",wind,årstid,6.4,8.6,1.6,0.0,11.5,8.9,ok
+2026-11-01T08:30+01:00,vestnytt.no,precipitation,nedbør,"3,0 mm/t på Rong",wind,årstid,7.3,10.8,0.0,0.0,11.1,9.9,ok
+2026-11-01T08:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,6.4,9.0,0.0,0.0,10.5,9.6,ok
+2026-11-01T08:30+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,2.9,7.8,0.0,0.0,10.5,4.2,ok
+2026-11-01T08:30+01:00,bomlo-nytt.no,precipitation,nedbør,"Minst 1,0 mm/t på 11 av 15 steder",wind,årstid,4.9,8.3,0.5,0.0,11.2,9.6,ok
+2026-11-01T08:30+01:00,strilen.no,precipitation,nedbør,"3,1 mm/t på Nonkletten",wind,årstid,5.8,9.3,0.0,0.0,10.6,6.4,ok
+2026-11-01T08:30+01:00,sunnhordland.no,precipitation,nedbør,"4,0 mm/t på Fitjar",wind,årstid,6.6,9.0,1.5,0.0,11.6,8.9,ok
