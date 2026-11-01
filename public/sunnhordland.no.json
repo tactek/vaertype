@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,0 mm/t på Fitjar",
-  "since": "2026-11-01T07:30+01:00",
-  "updated": "2026-11-01T10:01+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-01T10:30+01:00",
+  "updated": "2026-11-01T10:30+01:00"
 }
