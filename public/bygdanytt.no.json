@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
-  "since": "2026-11-01T05:01+01:00",
-  "updated": "2026-11-09T00:01+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-2,0 grader på Bruviknipa, uvanlig for november",
+  "since": "2026-11-09T00:30+01:00",
+  "updated": "2026-11-09T00:30+01:00"
 }
