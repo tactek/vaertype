@@ -2747,3 +2747,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-09T20:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.1,7.3,1.3,0.0,7.1,5.8,ok
 2026-11-09T20:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,3.2,5.5,0.4,0.0,6.4,1.0,ok
 2026-11-09T20:01+01:00,sunnhordland.no,precipitation,nedbør,"4,0 mm/t på Ryvarden",precipitation,nedbør,4.7,7.4,4.0,0.0,7.2,3.5,ok
+2026-11-09T20:30+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.3,6.6,1.4,0.0,6.9,6.0,ok
+2026-11-09T20:30+01:00,av-avis.no,precipitation,nedbør,"4,6 mm/t på Kleppestø",wind,årstid,3.5,5.2,1.9,0.4,7.1,5.4,ok
+2026-11-09T20:30+01:00,bygdanytt.no,precipitation,nedbør,"3,0 mm/t på Indre Arna",wind,årstid,2.3,5.3,1.0,0.0,5.7,-0.7,ok
+2026-11-09T20:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.5,7.8,2.8,0.0,7.3,5.8,ok
+2026-11-09T20:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,3.3,5.5,2.2,0.0,6.4,1.0,ok
+2026-11-09T20:30+01:00,sunnhordland.no,precipitation,nedbør,"4,0 mm/t på Ryvarden",wind,årstid,5.0,7.6,2.2,0.0,7.1,3.4,ok
