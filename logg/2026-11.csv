@@ -2567,3 +2567,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-09T06:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,2.9,5.0,0.0,0.0,6.2,4.3,ok
 2026-11-09T06:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,3.0,5.1,0.0,0.0,7.3,1.0,ok
 2026-11-09T06:01+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,2.6,4.8,0.0,0.0,6.0,1.8,ok
+2026-11-09T06:30+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.6,6.4,0.0,0.0,6.7,4.7,ok
+2026-11-09T06:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,2.8,5.3,0.0,0.0,6.2,4.9,ok
+2026-11-09T06:30+01:00,bygdanytt.no,cold,temperatur,"-2,5 grader på Bruviknipa, uvanlig for november",cold,temperatur,1.7,3.7,0.0,0.0,4.6,-2.5,ok
+2026-11-09T06:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,3.0,5.2,0.2,0.0,6.4,3.8,ok
+2026-11-09T06:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,3.2,5.2,0.0,0.0,7.5,0.9,ok
+2026-11-09T06:30+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,2.5,4.7,0.5,0.0,6.2,1.8,ok
