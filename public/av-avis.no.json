@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,6 mm/t på Kleppestø",
-  "since": "2026-11-09T19:31+01:00",
-  "updated": "2026-11-09T22:30+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-09T23:01+01:00",
+  "updated": "2026-11-09T23:01+01:00"
 }
