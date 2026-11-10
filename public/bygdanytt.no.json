@@ -1,7 +1,8 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
-  "since": "2026-11-09T22:01+01:00",
-  "updated": "2026-11-10T12:01+01:00"
+  "weathertype": "precipitation",
+  "rule": "farevarsel",
+  "reason": "Gult farevarsel: Snø, Deler av Vestlandet",
+  "alert_level": 2,
+  "since": "2026-11-10T12:30+01:00",
+  "updated": "2026-11-10T12:30+01:00"
 }
