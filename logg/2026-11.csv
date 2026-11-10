@@ -3047,3 +3047,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-10T19:31+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.8,6.9,1.5,0.5,7.6,6.6,ok
 2026-11-10T19:31+01:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,5.5,9.1,3.8,0.0,7.2,2.4,ok
 2026-11-10T19:31+01:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,5.5,8.2,1.5,0.0,7.3,4.5,ok
+2026-11-10T20:01+01:00,vestnytt.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,7.4,10.4,6.6,0.7,7.4,6.4,ok
+2026-11-10T20:01+01:00,av-avis.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,7.2,10.2,1.0,0.3,7.2,6.2,ok
+2026-11-10T20:01+01:00,bygdanytt.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,4.7,7.7,4.1,0.9,6.7,-0.3,ok
+2026-11-10T20:01+01:00,bomlo-nytt.no,precipitation,nedbør,"4,7 mm/t på Svortland",precipitation,nedbør,4.9,7.1,4.7,1.3,7.6,6.6,ok
+2026-11-10T20:01+01:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,6.0,8.9,1.6,0.0,7.2,1.8,ok
+2026-11-10T20:01+01:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,5.4,7.9,5.4,0.30000000000000004,7.5,4.6,ok
