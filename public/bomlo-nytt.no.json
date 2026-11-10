@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "6,4 mm/t på Mosterhamn",
-  "since": "2026-11-10T20:01+01:00",
-  "updated": "2026-11-10T23:01+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-10T23:30+01:00",
+  "updated": "2026-11-10T23:30+01:00"
 }
