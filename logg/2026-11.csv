@@ -3209,3 +3209,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-11T08:01+01:00,bomlo-nytt.no,precipitation,nedbør,"7,1 mm/t på Spyssøy",precipitation,nedbør,8.0,12.4,7.1,0.0,7.2,5.4,ok
 2026-11-11T08:01+01:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,7.3,13.4,0.2,0.0,6.4,1.1,ok
 2026-11-11T08:01+01:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,8.4,12.6,1.1,0.0,8.3,3.0,ok
+2026-11-11T08:30+01:00,vestnytt.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,8.7,13.1,1.1,0.0,6.7,5.0,ok
+2026-11-11T08:30+01:00,av-avis.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,7.6,11.8,0.0,0.0,6.8,4.4,ok
+2026-11-11T08:30+01:00,bygdanytt.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,6.3,12.4,0.0,0.0,5.4,-1.3,ok
+2026-11-11T08:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.7,12.3,1.8,0.0,7.4,5.3,ok
+2026-11-11T08:30+01:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,6.9,12.5,0.0,0.0,6.3,1.1,ok
+2026-11-11T08:30+01:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,8.1,12.4,2.2,0.0,8.2,2.7,ok
