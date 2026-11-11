@@ -3173,3 +3173,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-11T05:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,8.3,11.6,2.2,0.0,7.5,5.3,ok
 2026-11-11T05:01+01:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,7.3,10.9,3.9,0.0,6.8,0.7,ok
 2026-11-11T05:01+01:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,8.4,11.5,5.9,0.0,8.3,4.5,ok
+2026-11-11T05:30+01:00,vestnytt.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,11.2,15.8,4.1,0.0,7.0,4.8,ok
+2026-11-11T05:30+01:00,av-avis.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,9.4,13.5,3.8,0.2,7.0,4.9,ok
+2026-11-11T05:30+01:00,bygdanytt.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,3.8,8.6,0.5,0.0,5.5,-0.6,ok
+2026-11-11T05:30+01:00,bomlo-nytt.no,precipitation,nedbør,"3,2 mm/t på Lykling",precipitation,nedbør,9.1,12.7,3.2,0.4,7.5,5.0,ok
+2026-11-11T05:30+01:00,strilen.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,8.9,12.8,1.9,0.0,7.0,0.8,ok
+2026-11-11T05:30+01:00,sunnhordland.no,precipitation,farevarsel,"Gult farevarsel: Snø, Deler av Vestlandet",precipitation,farevarsel,9.3,12.9,1.2,0.0,8.3,4.4,ok
