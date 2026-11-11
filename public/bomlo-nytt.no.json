@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,0 mm/t på Mælandsvågen",
-  "since": "2026-11-11T17:01+01:00",
-  "updated": "2026-11-11T19:38+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 13,5 m/s på Espevær",
+  "since": "2026-11-11T20:01+01:00",
+  "updated": "2026-11-11T20:01+01:00"
 }
