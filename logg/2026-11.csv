@@ -3551,3 +3551,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-12T11:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,8.5,12.4,1.5,0.0,4.0,2.0,ok
 2026-11-12T11:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.9,13.1,0.0,0.0,4.1,-1.8,ok
 2026-11-12T11:01+01:00,sunnhordland.no,precipitation,nedbør,"3,7 mm/t på Espevær",precipitation,nedbør,8.7,13.0,3.7,0.0,4.1,0.0,ok
+2026-11-12T11:30+01:00,vestnytt.no,wind,vind,"Middelvind 12,3 m/s på Hernar",wind,vind,12.3,16.9,0.0,0.0,5.1,1.9,ok
+2026-11-12T11:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.4,13.6,0.0,0.0,4.4,1.5,ok
+2026-11-12T11:30+01:00,bygdanytt.no,cold,temperatur,"-4,3 grader på Gullfjellet, uvanlig for november",cold,temperatur,8.0,13.0,0.0,0.0,2.1,-4.3,ok
+2026-11-12T11:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.0,13.1,0.0,0.0,3.8,1.9,ok
+2026-11-12T11:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,8.3,13.4,0.0,0.0,4.3,-1.5,ok
+2026-11-12T11:30+01:00,sunnhordland.no,precipitation,nedbør,"3,7 mm/t på Espevær",wind,årstid,9.3,13.4,2.2,0.0,4.4,0.3,ok
