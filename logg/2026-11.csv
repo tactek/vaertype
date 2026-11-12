@@ -3623,3 +3623,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-12T17:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,0 m/s på Brandasund",wind,vind,11.0,15.5,0.0,0.0,5.5,3.2,ok
 2026-11-12T17:01+01:00,strilen.no,cold,temperatur,"-2,7 grader på Nonkletten, uvanlig for november",cold,temperatur,6.8,11.8,0.4,0.0,5.3,-2.7,ok
 2026-11-12T17:01+01:00,sunnhordland.no,wind,vind,"Middelvind 11,7 m/s på Slåtterøy fyr",wind,vind,11.7,16.3,0.0,0.0,6.1,0.0,ok
+2026-11-12T17:30+01:00,vestnytt.no,wind,vind,"Middelvind 11,5 m/s på Hernar",wind,vind,11.5,16.6,1.2,0.0,6.4,2.8,ok
+2026-11-12T17:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,8.8,12.8,0.0,0.0,5.5,2.0,ok
+2026-11-12T17:30+01:00,bygdanytt.no,cold,temperatur,"-4,0 grader på Gullfjellet, uvanlig for november",cold,temperatur,7.5,12.3,0.0,0.0,2.6,-4.0,ok
+2026-11-12T17:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 11,1 m/s på Brandasund",wind,vind,11.1,16.1,0.0,0.0,5.3,3.0,ok
+2026-11-12T17:30+01:00,strilen.no,cold,temperatur,"-3,2 grader på Nonkletten, uvanlig for november",cold,temperatur,7.0,11.3,0.0,0.0,5.3,-3.2,ok
+2026-11-12T17:30+01:00,sunnhordland.no,wind,vind,"Middelvind 11,9 m/s på Slåtterøy fyr",wind,vind,11.9,17.0,0.0,0.0,6.2,-0.2,ok
