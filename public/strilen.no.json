@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
-  "since": "2026-11-13T10:30+01:00",
-  "updated": "2026-11-13T16:30+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-2,0 grader på Nonkletten, uvanlig for november",
+  "since": "2026-11-13T17:01+01:00",
+  "updated": "2026-11-13T17:01+01:00"
 }
