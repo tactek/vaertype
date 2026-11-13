@@ -3803,3 +3803,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-13T06:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,10.7,15.7,0.0,0.0,5.5,3.2,ok
 2026-11-13T06:30+01:00,strilen.no,cold,temperatur,"-3,1 grader på Nonkletten, uvanlig for november",cold,temperatur,6.6,14.3,0.0,0.0,4.6,-3.1,ok
 2026-11-13T06:30+01:00,sunnhordland.no,cold,temperatur,"-2,6 grader på Etne, uvanlig for november",cold,temperatur,10.1,15.2,0.0,0.0,5.8,-2.6,ok
+2026-11-13T07:01+01:00,vestnytt.no,wind,vind,"Middelvind 12,7 m/s på Hernar",wind,vind,12.7,17.6,0.0,0.0,5.1,2.7,ok
+2026-11-13T07:01+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,8.7,13.3,0.0,0.0,5.4,0.6,ok
+2026-11-13T07:01+01:00,bygdanytt.no,cold,temperatur,"-4,0 grader på Bruviknipa, uvanlig for november",cold,temperatur,7.0,11.3,0.0,0.0,0.1,-4.0,ok
+2026-11-13T07:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 10,9 m/s på Espevær",wind,vind,10.9,16.2,0.6,0.0,5.7,3.3,ok
+2026-11-13T07:01+01:00,strilen.no,cold,temperatur,"-2,7 grader på Nonkletten, uvanlig for november",cold,temperatur,7.1,13.5,0.0,0.0,4.9,-2.7,ok
+2026-11-13T07:01+01:00,sunnhordland.no,cold,temperatur,"-2,4 grader på Matre, uvanlig for november",cold,temperatur,9.8,15.9,0.8,0.0,5.6,-2.4,ok
