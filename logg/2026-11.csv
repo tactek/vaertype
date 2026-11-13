@@ -3785,3 +3785,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-13T05:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.7,13.6,0.0,0.0,5.7,3.5,ok
 2026-11-13T05:01+01:00,strilen.no,cold,temperatur,"-3,4 grader på Nonkletten, uvanlig for november",cold,temperatur,7.9,12.8,0.2,0.0,4.6,-3.4,ok
 2026-11-13T05:01+01:00,sunnhordland.no,cold,temperatur,"-2,1 grader på Etne, uvanlig for november",cold,temperatur,9.8,13.9,0.2,0.0,5.3,-2.1,ok
+2026-11-13T05:30+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,10.5,15.3,0.0,0.0,5.2,1.8,ok
+2026-11-13T05:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.3,11.5,0.0,0.0,4.7,0.7,ok
+2026-11-13T05:30+01:00,bygdanytt.no,cold,temperatur,"-4,0 grader på Gullfjellet, uvanlig for november",cold,temperatur,7.6,12.2,0.0,0.0,0.1,-4.0,ok
+2026-11-13T05:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,10.2,14.4,0.0,0.0,5.4,3.1,ok
+2026-11-13T05:30+01:00,strilen.no,cold,temperatur,"-3,3 grader på Nonkletten, uvanlig for november",cold,temperatur,8.0,13.2,0.0,0.0,4.6,-3.3,ok
+2026-11-13T05:30+01:00,sunnhordland.no,cold,temperatur,"-2,2 grader på Etne, uvanlig for november",cold,temperatur,10.1,14.2,0.0,0.0,5.4,-2.2,ok
