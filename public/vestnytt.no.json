@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "vind",
-  "reason": "Middelvind 10,9 m/s på Hernar",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
   "since": "2026-11-12T07:30+01:00",
-  "updated": "2026-11-13T00:30+01:00"
+  "updated": "2026-11-13T01:01+01:00"
 }
