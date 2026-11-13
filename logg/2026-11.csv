@@ -3773,3 +3773,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-13T04:23+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.0,12.6,0.0,0.0,5.6,3.3,ok
 2026-11-13T04:23+01:00,strilen.no,cold,temperatur,"-3,2 grader på Nonkletten, uvanlig for november",cold,temperatur,7.7,12.3,0.3,0.0,5.0,-3.2,ok
 2026-11-13T04:23+01:00,sunnhordland.no,cold,temperatur,"-2,0 grader på Fjæra, uvanlig for november",cold,temperatur,9.4,13.3,0.0,0.0,5.5,-2.0,ok
+2026-11-13T04:31+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,10.5,15.8,1.1,0.0,6.0,2.1,ok
+2026-11-13T04:31+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.3,10.7,0.0,0.0,4.5,0.3,ok
+2026-11-13T04:31+01:00,bygdanytt.no,cold,temperatur,"-4,1 grader på Gullfjellet, uvanlig for november",cold,temperatur,8.0,12.2,0.0,0.0,0.1,-4.1,ok
+2026-11-13T04:31+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.3,13.0,0.0,0.0,5.5,3.3,ok
+2026-11-13T04:31+01:00,strilen.no,cold,temperatur,"-3,2 grader på Nonkletten, uvanlig for november",cold,temperatur,7.7,12.3,0.2,0.0,5.0,-3.2,ok
+2026-11-13T04:31+01:00,sunnhordland.no,cold,temperatur,"-2,0 grader på Fjæra, uvanlig for november",cold,temperatur,9.4,13.3,0.2,0.0,5.5,-2.0,ok
