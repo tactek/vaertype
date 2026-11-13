@@ -3881,3 +3881,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-13T12:30+01:00,bomlo-nytt.no,wind,vind,"Vindkast 17,0 m/s på Brandasund",wind,vind,10.2,17.0,5.4,0.0,6.1,5.1,ok
 2026-11-13T12:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.4,11.7,0.0,0.0,5.7,-0.7,ok
 2026-11-13T12:30+01:00,sunnhordland.no,wind,vind,"Middelvind 10,9 m/s på Slåtterøy fyr",wind,vind,10.9,17.9,0.6,0.0,6.4,1.1,ok
+2026-11-13T13:01+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.6,11.8,0.0,0.0,6.2,3.9,ok
+2026-11-13T13:01+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,6.1,10.1,0.0,0.0,6.0,3.5,ok
+2026-11-13T13:01+01:00,bygdanytt.no,cold,temperatur,"-2,9 grader på Gullfjellet, uvanlig for november",cold,temperatur,5.3,10.3,0.0,0.0,2.2,-2.9,ok
+2026-11-13T13:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,10.1,16.3,1.6,0.0,6.1,5.2,ok
+2026-11-13T13:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.7,9.9,0.0,0.0,5.3,-0.5,ok
+2026-11-13T13:01+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.8,16.8,1.7,0.0,6.6,1.1,ok
