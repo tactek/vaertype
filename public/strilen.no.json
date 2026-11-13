@@ -1,7 +1,7 @@
 {
-  "weathertype": "cold",
-  "rule": "temperatur",
-  "reason": "-2,1 grader på Stordalen, uvanlig for november",
-  "since": "2026-11-13T17:01+01:00",
-  "updated": "2026-11-13T22:01+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-13T22:30+01:00",
+  "updated": "2026-11-13T22:30+01:00"
 }
