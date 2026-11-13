@@ -1,7 +1,7 @@
 {
   "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "rule": "vind",
+  "reason": "Middelvind 10,8 m/s på Espevær",
   "since": "2026-11-12T23:01+01:00",
-  "updated": "2026-11-13T09:01+01:00"
+  "updated": "2026-11-13T09:30+01:00"
 }

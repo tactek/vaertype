@@ -1,7 +1,7 @@
 {
-  "weathertype": "cold",
-  "rule": "temperatur",
-  "reason": "-2,2 grader på Fjæra, uvanlig for november",
-  "since": "2026-11-13T03:01+01:00",
-  "updated": "2026-11-13T09:01+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-13T09:30+01:00",
+  "updated": "2026-11-13T09:30+01:00"
 }
