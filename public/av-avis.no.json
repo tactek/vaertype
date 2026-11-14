@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "5,8 mm/t på Herdla",
-  "since": "2026-11-14T08:30+01:00",
-  "updated": "2026-11-14T11:01+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 11,0 m/s på Herdla",
+  "since": "2026-11-14T11:30+01:00",
+  "updated": "2026-11-14T11:30+01:00"
 }
