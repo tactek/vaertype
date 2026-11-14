@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,3 mm/t på Rommetveit",
-  "since": "2026-11-13T22:30+01:00",
-  "updated": "2026-11-14T02:30+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-14T03:01+01:00",
+  "updated": "2026-11-14T03:01+01:00"
 }

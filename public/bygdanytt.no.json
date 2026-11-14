@@ -1,7 +1,7 @@
 {
-  "weathertype": "cold",
-  "rule": "temperatur",
-  "reason": "-2,0 grader på Gullfjellet, uvanlig for november",
-  "since": "2026-11-12T07:30+01:00",
-  "updated": "2026-11-14T02:30+01:00"
+  "weathertype": "precipitation",
+  "rule": "nedbør",
+  "reason": "3,1 mm/t på Blindheim",
+  "since": "2026-11-14T03:01+01:00",
+  "updated": "2026-11-14T03:01+01:00"
 }
