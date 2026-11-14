@@ -4331,3 +4331,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-15T00:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 12,9 m/s på Espevær",wind,vind,12.9,18.3,4.5,0.0,9.8,8.6,ok
 2026-11-15T00:01+01:00,strilen.no,wind,vind,"Vindkast 18,7 m/s på Eldsfjellet",wind,vind,8.8,18.7,2.2,0.6,8.7,2.3,ok
 2026-11-15T00:01+01:00,sunnhordland.no,wind,vind,"Middelvind 13,0 m/s på Slåtterøy fyr",wind,vind,13.0,18.3,0.5,0.0,10.2,6.6,ok
+2026-11-15T00:21+01:00,vestnytt.no,wind,vind,"Middelvind 12,5 m/s på Solsvik",wind,vind,12.5,19.4,3.2,0.0,9.7,7.2,ok
+2026-11-15T00:21+01:00,av-avis.no,wind,vind,"Middelvind 12,0 m/s på Hanøy",wind,vind,12.0,18.8,0.2,0.0,9.9,6.7,ok
+2026-11-15T00:21+01:00,bygdanytt.no,wind,vind,"Middelvind 10,9 m/s på Gullfjellet",wind,vind,10.9,20.1,6.5,3.7,8.6,2.0,ok
+2026-11-15T00:21+01:00,bomlo-nytt.no,wind,vind,"Middelvind 12,8 m/s på Espevær",wind,vind,12.8,18.4,0.0,0.0,9.8,8.6,ok
+2026-11-15T00:21+01:00,strilen.no,wind,vind,"Vindkast 17,6 m/s på Eldsfjellet",wind,vind,8.9,17.6,4.3,0.75,8.7,1.5,ok
+2026-11-15T00:21+01:00,sunnhordland.no,wind,vind,"Middelvind 13,0 m/s på Slåtterøy fyr",wind,vind,13.0,18.4,3.0,0.0,10.1,6.7,ok
