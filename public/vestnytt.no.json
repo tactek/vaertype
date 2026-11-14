@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,8 mm/t på Hernar",
-  "since": "2026-11-14T00:30+01:00",
-  "updated": "2026-11-14T03:30+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 10,9 m/s på Hernar",
+  "since": "2026-11-14T04:01+01:00",
+  "updated": "2026-11-14T04:01+01:00"
 }
