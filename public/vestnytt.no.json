@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "4,6 mm/t på Fardalen",
-  "since": "2026-11-14T07:58+01:00",
-  "updated": "2026-11-14T09:01+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 11,1 m/s på Hernar",
+  "since": "2026-11-14T09:30+01:00",
+  "updated": "2026-11-14T09:30+01:00"
 }
