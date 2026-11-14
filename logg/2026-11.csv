@@ -4097,3 +4097,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-14T06:01+01:00,bomlo-nytt.no,precipitation,nedbør,"8,2 mm/t på Mosterhamn",precipitation,nedbør,9.5,12.9,8.2,0.0,9.1,5.6,ok
 2026-11-14T06:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.3,12.5,0.7,0.0,7.7,0.2,ok
 2026-11-14T06:01+01:00,sunnhordland.no,precipitation,nedbør,"6,9 mm/t på Sørstokken",precipitation,nedbør,9.7,13.1,6.9,0.0,9.4,2.0,ok
+2026-11-14T06:30+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,9.6,13.4,1.7,0.0,8.6,5.8,ok
+2026-11-14T06:30+01:00,av-avis.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.7,11.5,0.2,0.0,7.7,5.5,ok
+2026-11-14T06:30+01:00,bygdanytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.8,10.6,0.8,0.0,5.5,-0.8,ok
+2026-11-14T06:30+01:00,bomlo-nytt.no,precipitation,nedbør,"6,9 mm/t på Mælandsvågen",precipitation,nedbør,9.7,13.2,6.9,1.2,9.1,5.5,ok
+2026-11-14T06:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,7.4,12.4,0.4,0.0,8.7,0.4,ok
+2026-11-14T06:30+01:00,sunnhordland.no,precipitation,nedbør,"7,0 mm/t på Svortland",precipitation,nedbør,9.8,13.1,7.0,0.0,9.4,2.1,ok
