@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,5 mm/t på Knarvik",
-  "since": "2026-11-15T04:30+01:00",
-  "updated": "2026-11-15T04:30+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Vindkast 17,6 m/s på Meland golf",
+  "since": "2026-11-15T05:01+01:00",
+  "updated": "2026-11-15T05:01+01:00"
 }
