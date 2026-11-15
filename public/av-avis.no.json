@@ -1,7 +1,7 @@
 {
   "weathertype": "precipitation",
   "rule": "nedbør",
-  "reason": "4,0 mm/t på Hanøy",
+  "reason": "Minst 1,0 mm/t på 18 av 27 steder",
   "since": "2026-11-15T09:30+01:00",
-  "updated": "2026-11-15T12:01+01:00"
+  "updated": "2026-11-15T12:30+01:00"
 }
