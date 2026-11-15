@@ -4463,3 +4463,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-15T10:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 14,8 m/s på Espevær",wind,vind,14.8,22.2,3.3,1.6,9.4,8.1,ok
 2026-11-15T10:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.1,9.3,1.6,0.75,4.9,-0.3,ok
 2026-11-15T10:01+01:00,sunnhordland.no,wind,vind,"Middelvind 14,9 m/s på Ryvarden",wind,vind,14.9,22.2,8.5,0.9,9.4,6.1,ok
+2026-11-15T10:30+01:00,vestnytt.no,wind,vind,"Vindkast 19,9 m/s på Fardalen",wind,vind,7.4,19.9,4.2,3.0,4.1,2.8,ok
+2026-11-15T10:30+01:00,av-avis.no,precipitation,nedbør,"4,0 mm/t på Hanøy",precipitation,nedbør,6.4,9.6,4.0,1.6,3.8,2.9,ok
+2026-11-15T10:30+01:00,bygdanytt.no,wind,vind,"Vindkast 17,5 m/s på Bruviknipa",wind,vind,4.1,17.5,4.6,1.7,4.3,-0.4,ok
+2026-11-15T10:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 14,7 m/s på Espevær",wind,vind,14.7,21.8,2.2,0.9,9.4,7.4,ok
+2026-11-15T10:30+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.0,9.3,1.7,0.9,4.2,-0.5,ok
+2026-11-15T10:30+01:00,sunnhordland.no,wind,vind,"Middelvind 15,0 m/s på Ryvarden",wind,vind,15.0,22.1,8.7,0.9,9.5,6.2,ok
