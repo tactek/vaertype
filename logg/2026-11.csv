@@ -4361,3 +4361,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-15T02:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 13,7 m/s på Espevær",wind,vind,13.7,20.2,0.5,0.0,9.8,8.2,ok
 2026-11-15T02:01+01:00,strilen.no,wind,vind,"Vindkast 19,0 m/s på Meland golf",wind,vind,9.2,19.0,4.9,1.15,9.0,2.5,ok
 2026-11-15T02:01+01:00,sunnhordland.no,wind,vind,"Middelvind 13,2 m/s på Ryvarden",wind,vind,13.2,20.1,4.8,0.0,9.9,6.7,ok
+2026-11-15T02:30+01:00,vestnytt.no,wind,vind,"Middelvind 13,2 m/s på Turøy",wind,vind,13.2,20.6,17.9,2.2,9.7,6.2,ok
+2026-11-15T02:30+01:00,av-avis.no,wind,vind,"Middelvind 12,0 m/s på Hanøy",wind,vind,12.0,19.5,15.0,3.5,8.7,7.3,ok
+2026-11-15T02:30+01:00,bygdanytt.no,wind,vind,"Middelvind 11,8 m/s på Gullfjellet",wind,vind,11.8,22.1,7.6,3.9,8.8,2.1,ok
+2026-11-15T02:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 14,0 m/s på Espevær",wind,vind,14.0,20.7,0.1,0.0,9.8,8.3,ok
+2026-11-15T02:30+01:00,strilen.no,wind,vind,"Vindkast 18,0 m/s på Meland golf",wind,vind,9.0,18.0,7.5,1.7,8.7,1.9,ok
+2026-11-15T02:30+01:00,sunnhordland.no,wind,vind,"Middelvind 13,7 m/s på Ryvarden",wind,vind,13.7,20.6,4.2,0.0,9.9,6.7,ok
