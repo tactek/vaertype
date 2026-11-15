@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,9 mm/t på Gullfjellet",
-  "since": "2026-11-15T11:01+01:00",
-  "updated": "2026-11-15T13:30+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-3,1 grader på Gullfjellet, uvanlig for november",
+  "since": "2026-11-15T14:01+01:00",
+  "updated": "2026-11-15T14:01+01:00"
 }

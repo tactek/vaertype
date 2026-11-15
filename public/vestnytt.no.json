@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "Minst 1,0 mm/t på 34 av 61 steder",
-  "since": "2026-11-15T11:01+01:00",
-  "updated": "2026-11-15T13:30+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-15T14:01+01:00",
+  "updated": "2026-11-15T14:01+01:00"
 }
