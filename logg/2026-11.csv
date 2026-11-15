@@ -4415,3 +4415,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-15T06:01+01:00,bomlo-nytt.no,wind,vind,"Middelvind 15,8 m/s på Brandasund",wind,vind,15.8,22.6,1.8,0.5,9.7,8.1,ok
 2026-11-15T06:01+01:00,strilen.no,wind,vind,"Vindkast 19,3 m/s på Frekhaug",wind,vind,10.4,19.3,7.8,3.1,7.9,2.8,ok
 2026-11-15T06:01+01:00,sunnhordland.no,wind,vind,"Middelvind 16,1 m/s på Slåtterøy fyr",wind,vind,16.1,22.6,3.3,0.0,9.6,6.5,ok
+2026-11-15T06:30+01:00,vestnytt.no,wind,vind,"Middelvind 15,6 m/s på Lokøy",wind,vind,15.6,24.6,8.4,3.1,9.2,5.7,ok
+2026-11-15T06:30+01:00,av-avis.no,wind,vind,"Middelvind 15,1 m/s på Hanøy",wind,vind,15.1,24.3,8.9,3.8,9.2,7.1,ok
+2026-11-15T06:30+01:00,bygdanytt.no,wind,vind,"Middelvind 13,6 m/s på Gullfjellet",wind,vind,13.6,25.6,6.2,2.2,8.4,1.9,ok
+2026-11-15T06:30+01:00,bomlo-nytt.no,wind,vind,"Middelvind 15,9 m/s på Brandasund",wind,vind,15.9,22.6,2.8,0.8,9.6,8.0,ok
+2026-11-15T06:30+01:00,strilen.no,wind,vind,"Middelvind 11,1 m/s på Frekhaug",wind,vind,11.1,21.0,8.7,1.9,7.8,2.8,ok
+2026-11-15T06:30+01:00,sunnhordland.no,wind,vind,"Middelvind 16,1 m/s på Slåtterøy fyr",wind,vind,16.1,22.6,6.7,0.30000000000000004,9.5,6.4,ok
