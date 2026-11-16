@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,0 mm/t på Lonevåg",
-  "since": "2026-11-16T02:01+01:00",
-  "updated": "2026-11-16T04:30+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-2,3 grader på Bruviknipa, uvanlig for november",
+  "since": "2026-11-16T05:01+01:00",
+  "updated": "2026-11-16T05:01+01:00"
 }
