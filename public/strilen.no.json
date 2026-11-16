@@ -1,7 +1,7 @@
 {
-  "weathertype": "precipitation",
-  "rule": "nedbør",
-  "reason": "3,6 mm/t på Frekhaug",
-  "since": "2026-11-16T07:01+01:00",
-  "updated": "2026-11-16T09:31+01:00"
+  "weathertype": "wind",
+  "rule": "årstid",
+  "reason": "Ikke noe uvanlig vær nå, standard for november",
+  "since": "2026-11-16T10:01+01:00",
+  "updated": "2026-11-16T10:01+01:00"
 }
