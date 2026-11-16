@@ -4757,3 +4757,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-16T08:30+01:00,bomlo-nytt.no,precipitation,nedbør,"3,1 mm/t på Rolvsnes",wind,årstid,4.0,6.1,1.6,0.5,3.7,2.3,ok
 2026-11-16T08:30+01:00,strilen.no,precipitation,nedbør,"3,6 mm/t på Frekhaug",wind,årstid,4.0,7.2,0.2,0.0,3.5,-0.9,ok
 2026-11-16T08:30+01:00,sunnhordland.no,precipitation,nedbør,"3,3 mm/t på Slåtterøy fyr",precipitation,nedbør,4.4,6.6,3.3,0.0,3.8,0.0,ok
+2026-11-16T09:01+01:00,vestnytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.4,7.8,1.6,0.0,4.2,1.8,ok
+2026-11-16T09:01+01:00,av-avis.no,precipitation,nedbør,"3,7 mm/t på Merkesvik",wind,årstid,4.5,7.9,0.2,0.0,3.7,1.7,ok
+2026-11-16T09:01+01:00,bygdanytt.no,cold,temperatur,"-2,5 grader på Bruviknipa, uvanlig for november",cold,temperatur,1.9,5.0,0.0,0.0,2.0,-2.5,ok
+2026-11-16T09:01+01:00,bomlo-nytt.no,precipitation,nedbør,"3,1 mm/t på Rolvsnes",wind,årstid,4.4,6.6,1.4,0.4,3.7,2.5,ok
+2026-11-16T09:01+01:00,strilen.no,precipitation,nedbør,"3,6 mm/t på Frekhaug",wind,årstid,3.1,6.8,0.0,0.0,3.3,-1.0,ok
+2026-11-16T09:01+01:00,sunnhordland.no,precipitation,nedbør,"3,3 mm/t på Slåtterøy fyr",wind,årstid,4.6,6.7,0.7,0.0,4.1,-0.5,ok
