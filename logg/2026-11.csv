@@ -4673,3 +4673,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-16T02:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.4,6.4,0.0,0.0,5.8,0.6,ok
 2026-11-16T02:01+01:00,strilen.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.6,10.6,1.8,0.5,4.0,-1.0,ok
 2026-11-16T02:01+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.1,7.9,0.0,0.0,6.8,-0.2,ok
+2026-11-16T02:30+01:00,vestnytt.no,precipitation,nedbør,"3,2 mm/t på Ulvøy",precipitation,nedbør,7.0,10.9,3.2,0.0,5.8,1.7,ok
+2026-11-16T02:30+01:00,av-avis.no,precipitation,nedbør,"3,1 mm/t på Hanevik",wind,årstid,5.2,8.4,1.7,0.2,4.2,2.0,ok
+2026-11-16T02:30+01:00,bygdanytt.no,precipitation,nedbør,"3,0 mm/t på Lonevåg",cold,temperatur,2.4,5.5,1.0,0.0,2.1,-2.9,ok
+2026-11-16T02:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.9,7.0,0.0,0.0,6.2,0.4,ok
+2026-11-16T02:30+01:00,strilen.no,precipitation,nedbør,"4,5 mm/t på Bøvågen",precipitation,nedbør,5.7,11.2,4.5,0.2,3.8,-0.9,ok
+2026-11-16T02:30+01:00,sunnhordland.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,5.1,8.0,0.5,0.0,6.8,-0.3,ok
