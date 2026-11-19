@@ -112,7 +112,8 @@ class Hold(unittest.TestCase):
                                          (9, -2, "cold"), (10, 0, "wind")]:
             with self.subTest(hours=hours, minimum=minimum):
                 at = now + timedelta(hours=hours)
-                readings = temps(3, minimum)
+                # A warm pocket can reach the heat threshold before the frost lifts elsewhere.
+                readings = temps(12 if hours == 5 else 3, minimum)
                 previous = v.apply_hold(at, run(at, temps=readings), previous,
                                         domain="vestnytt.no", temps=readings)
                 self.assertEqual(previous["weathertype"], expected)
@@ -229,6 +230,23 @@ class Hold(unittest.TestCase):
 
 
 class Job(unittest.TestCase):
+    def test_missing_coldest_place_does_not_stop_other_papers(self):
+        now = OCTOBER.replace(month=11)
+        previous = v.apply_hold(now - timedelta(hours=4), run(now, temps=temps(-2)), None)
+        without_name = [{"air_temperature": -1}]
+        with (patch.object(v, "datetime", wraps=datetime) as clock,
+              patch.object(v, "DOMAINS", ("vestnytt.no", "second.no")),
+              patch.object(v, "fetch", side_effect=[({"features": []}, None),
+                                                     ({"data": LOCATIONS}, None), ({"data": LOCATIONS}, None)]),
+              patch.object(v, "fetch_weather", return_value=(without_name, CALM["winds"], CALM["rain"])),
+              patch.object(v, "read_previous", return_value=previous),
+              patch.object(sys, "argv", ["velg_type.py", "--dry-run"]),
+              patch.object(sys, "stderr", new_callable=StringIO) as errors, redirect_stdout(StringIO()) as output):
+            clock.now.return_value = now
+            self.assertEqual(v.main(), 1)
+            self.assertIn("vestnytt.no: FEIL", errors.getvalue())
+            self.assertIn("second.no: wind", output.getvalue())
+
     def test_broken_previous_file_does_not_stop_other_papers(self):
         with TemporaryDirectory() as tmp:
             public = Path(tmp) / "public"

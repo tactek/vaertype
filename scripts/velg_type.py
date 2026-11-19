@@ -153,7 +153,7 @@ def apply_hold(now, found, previous, *, domain=None, temps=()):
         valid = False
     if valid:
         release_at = COLD_RELEASE_AT.get((domain, now.month))
-        if (release_at is not None and found["rule"] == "årstid"
+        if (release_at is not None and found["rule"] in ("årstid", "temperatur") and found["weathertype"] != "cold"
                 and previous["weathertype"] == "cold" and previous["rule"] == "temperatur"):
             coldest = min(temps, key=lambda e: e["air_temperature"])
             minimum = coldest["air_temperature"]
@@ -242,12 +242,12 @@ def main():
             except Exception as error:  # noqa: BLE001 - without places no alert can match
                 locations, status = [], f"steder utilgjengelige: {error}"
             found = evaluate(now, temps, winds, rain, alerts, locations)
+            result = apply_hold(now, found, read_previous(domain), domain=domain, temps=temps)
         except Exception as error:  # noqa: BLE001 - leave the old file so its "updated" goes stale
             print(f"{domain}: FEIL, beholder forrige valg ({error})", file=sys.stderr)
             failed = True
             continue
 
-        result = apply_hold(now, found, read_previous(domain), domain=domain, temps=temps)
         held = "" if result["weathertype"] == found["weathertype"] else f" (holder, nå: {found['weathertype']}/{found['rule']})"
         print(f"{domain}: {result['weathertype']} - {result['reason']}{held}")
         if not dry_run:
