@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
-  "since": "2026-11-19T11:01+01:00",
-  "updated": "2026-11-19T17:31+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-2,0 grader på Svortland, uvanlig for november",
+  "since": "2026-11-19T18:01+01:00",
+  "updated": "2026-11-19T18:01+01:00"
 }
