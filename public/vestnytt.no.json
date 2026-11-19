@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
-  "since": "2026-11-19T14:01+01:00",
-  "updated": "2026-11-19T15:01+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-2,2 grader på Fjell, uvanlig for november",
+  "since": "2026-11-19T15:31+01:00",
+  "updated": "2026-11-19T15:31+01:00"
 }
