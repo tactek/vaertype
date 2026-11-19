@@ -40,6 +40,7 @@ RAIN_WIDESPREAD_SHARE = 0.5  # ... at this share of places
 # coldest place drops to COLD_TO[month]. Hand-set for the coast around Bergen.
 WARM_FROM = {1: 10, 2: 10, 3: 12, 4: 16, 5: 20, 6: 23, 7: 25, 8: 24, 9: 20, 10: 16, 11: 12, 12: 10}
 COLD_TO = {1: -5, 2: -5, 3: -3, 4: -1, 5: 2, 6: 5, 7: 7, 8: 6, 9: 3, 10: 0, 11: -2, 12: -4}
+COLD_RELEASE_AT = {("vestnytt.no", 11): 0}
 # Never default to precipitation: on a dry day the strip would show only zeros.
 SEASON_DEFAULT = {12: "cold", 1: "cold", 2: "cold", 9: "wind", 10: "wind", 11: "wind"}  # else warm
 MIN_HOLD = timedelta(hours=3)
@@ -137,8 +138,8 @@ def evaluate(now, temps, winds, rain, alerts, locations):
                      f"Ikke noe uvanlig vær nå, standard for {MONTHS[now.month - 1]}")
 
 
-def apply_hold(now, found, previous):
-    """Keep the type for MIN_HOLD unless a higher rule or more serious alert takes over."""
+def apply_hold(now, found, previous, *, domain=None, temps=()):
+    """Apply the local cold release threshold and the ordinary minimum hold."""
     stamp = now.isoformat(timespec="minutes")
     try:
         since = datetime.fromisoformat(previous["since"])
@@ -151,6 +152,15 @@ def apply_hold(now, found, previous):
     except (TypeError, KeyError, ValueError):
         valid = False
     if valid:
+        release_at = COLD_RELEASE_AT.get((domain, now.month))
+        if (release_at is not None and found["rule"] == "årstid"
+                and previous["weathertype"] == "cold" and previous["rule"] == "temperatur"):
+            coldest = min(temps, key=lambda e: e["air_temperature"])
+            minimum = coldest["air_temperature"]
+            if minimum < release_at:
+                held = candidate("temperatur", "cold", f"Fortsatt {fmt(minimum)} grader på {place(coldest)}")
+                return held | {"since": previous["since"], "updated": stamp}
+            return {**found, "since": stamp, "updated": stamp}
         if found["weathertype"] == previous["weathertype"]:
             return {**found, "since": previous["since"], "updated": stamp}
         more_important = RULE_PRIORITY[found["rule"]] < RULE_PRIORITY[previous["rule"]]
@@ -237,7 +247,7 @@ def main():
             failed = True
             continue
 
-        result = apply_hold(now, found, read_previous(domain))
+        result = apply_hold(now, found, read_previous(domain), domain=domain, temps=temps)
         held = "" if result["weathertype"] == found["weathertype"] else f" (holder, nå: {found['weathertype']}/{found['rule']})"
         print(f"{domain}: {result['weathertype']} - {result['reason']}{held}")
         if not dry_run:

@@ -52,6 +52,11 @@ Jobben kjører hver halvtime og bruker de samme tallene som stripen viser (Haral
    | nov | 12 | -2 |
    | des | 10 | -4 |
 
+   For Vestnytt i november slår «kaldast» inn ved −2 °C eller lavere. Når temperaturen stiger igjen,
+   beholder stripen «kaldast» så lenge minst ett sted har minusgrader. Når det kaldeste stedet når 0 °C,
+   kan stripen gå tilbake til sesongvalget med en gang, også innenfor den vanlige holdetiden på tre timer.
+   Farevarsel, vind og nedbør har fortsatt prioritet.
+
 5. **Ellers årstiden:** kaldt i desember-februar, varmt i mars-august og vind i september-november. Nedbør er aldri standard, for på en tørr dag ville stripen bare vist nuller.
 
 Stripen holder en type i minst tre timer, så den ikke bytter fram og tilbake. En regel høyere opp i lista eller

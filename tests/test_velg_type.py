@@ -103,6 +103,40 @@ class Rules(unittest.TestCase):
 
 
 class Hold(unittest.TestCase):
+    def test_vestnytt_november_cold_spell(self):
+        now = OCTOBER.replace(month=11)
+        previous = None
+        # The cold spell outlasts the three-hour hold. Zero ends it, even after a fresh start.
+        for hours, minimum, expected in [(0, -1.5, "wind"), (1, -2, "cold"), (5, -1.5, "cold"),
+                                         (6, -0.1, "cold"), (7, 0, "wind"), (8, -1.5, "wind"),
+                                         (9, -2, "cold"), (10, 0, "wind")]:
+            with self.subTest(hours=hours, minimum=minimum):
+                at = now + timedelta(hours=hours)
+                readings = temps(3, minimum)
+                previous = v.apply_hold(at, run(at, temps=readings), previous,
+                                        domain="vestnytt.no", temps=readings)
+                self.assertEqual(previous["weathertype"], expected)
+                if expected == "cold":
+                    self.assertIn(v.fmt(minimum), previous["reason"])
+
+    def test_cold_spell_scope_and_priority(self):
+        now = OCTOBER.replace(month=11)
+        cases = [
+            ("sunnhordland.no", now, {}, "årstid"),
+            ("vestnytt.no", now.replace(month=3), {}, "årstid"),
+            ("vestnytt.no", now, {"winds": winds((10.8, 12))}, "vind"),
+            ("vestnytt.no", now, {"rain": rain(3)}, "nedbør"),
+            ("vestnytt.no", now, {"alerts": [alert("rain")]}, "farevarsel"),
+        ]
+        for domain, at, weather, expected in cases:
+            with self.subTest(domain=domain, at=at, expected=expected):
+                start = at - timedelta(hours=4)
+                previous = v.apply_hold(start, run(start, temps=temps(-4)), None)
+                readings = temps(-1.5)
+                found = run(at, temps=readings, **weather)
+                result = v.apply_hold(at, found, previous, domain=domain, temps=readings)
+                self.assertEqual(result["rule"], expected)
+
     def previous(self, rule, weathertype, hours_ago):
         since = (OCTOBER - timedelta(hours=hours_ago)).isoformat(timespec="minutes")
         return {"weathertype": weathertype, "rule": rule, "reason": "før", "since": since, "updated": since}
