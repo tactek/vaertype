@@ -1,7 +1,7 @@
 {
-  "weathertype": "wind",
-  "rule": "årstid",
-  "reason": "Ikke noe uvanlig vær nå, standard for november",
-  "since": "2026-11-20T14:01+01:00",
-  "updated": "2026-11-20T16:31+01:00"
+  "weathertype": "cold",
+  "rule": "temperatur",
+  "reason": "-2,5 grader på Etne, uvanlig for november",
+  "since": "2026-11-20T17:01+01:00",
+  "updated": "2026-11-20T17:01+01:00"
 }
