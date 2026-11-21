@@ -1,7 +1,7 @@
 {
-  "weathertype": "cold",
-  "rule": "temperatur",
-  "reason": "Fortsatt -1,9 grader på Tellnes",
-  "since": "2026-11-21T09:01+01:00",
-  "updated": "2026-11-21T09:31+01:00"
+  "weathertype": "wind",
+  "rule": "vind",
+  "reason": "Middelvind 11,4 m/s på Hernar",
+  "since": "2026-11-21T10:01+01:00",
+  "updated": "2026-11-21T10:01+01:00"
 }
