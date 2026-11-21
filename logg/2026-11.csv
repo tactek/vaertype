@@ -6263,3 +6263,9 @@ tid,avis,vises,regel,grunn,forslag_nå,regel_nå,maks_vind,maks_kast,maks_nedbø
 2026-11-21T07:01+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,4.1,6.9,0.0,0.0,3.5,-0.4,ok
 2026-11-21T07:01+01:00,strilen.no,cold,temperatur,"-3,9 grader på Nonkletten, uvanlig for november",cold,temperatur,4.5,8.0,0.0,0.0,1.5,-3.9,ok
 2026-11-21T07:01+01:00,sunnhordland.no,cold,temperatur,"-4,2 grader på Etne, uvanlig for november",cold,temperatur,4.5,7.5,0.0,0.0,4.4,-4.2,ok
+2026-11-21T07:30+01:00,vestnytt.no,precipitation,nedbør,"3,6 mm/t på Blomvåg",wind,årstid,6.1,8.4,0.0,0.0,4.6,-1.6,ok
+2026-11-21T07:30+01:00,av-avis.no,cold,temperatur,"-3,1 grader på Hanevik, uvanlig for november",cold,temperatur,1.5,2.7,0.0,0.0,1.8,-3.1,ok
+2026-11-21T07:30+01:00,bygdanytt.no,cold,temperatur,"-5,5 grader på Lone, uvanlig for november",cold,temperatur,4.8,6.8,0.0,0.0,-1.5,-5.5,ok
+2026-11-21T07:30+01:00,bomlo-nytt.no,wind,årstid,"Ikke noe uvanlig vær nå, standard for november",wind,årstid,3.3,6.1,0.0,0.0,3.6,-0.4,ok
+2026-11-21T07:30+01:00,strilen.no,cold,temperatur,"-3,8 grader på Nonkletten, uvanlig for november",cold,temperatur,4.9,8.7,0.0,0.0,2.2,-3.8,ok
+2026-11-21T07:30+01:00,sunnhordland.no,cold,temperatur,"-4,3 grader på Etne, uvanlig for november",cold,temperatur,4.5,7.9,0.0,0.0,4.3,-4.3,ok
